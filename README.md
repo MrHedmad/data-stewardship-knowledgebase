@@ -103,8 +103,8 @@ Not all links are fully tagged. Please consider contributing if you find an erro
     - :speech_balloon: :lock: :cookie: Ben Lorica - [The future of creativity](https://www.linkedin.com/pulse/future-creativity-intersection-ai-copyright-ben-lorica-%E7%BD%97%E7%91%9E%E5%8D%A1-skjac/)
 - :office: :newspaper: [Use of generative AI in research](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en) guidelines by the European Research Area Forum
 - :office: :newspaper: [Artificial Intelligence Act](https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai) by the European Parliament
-- :speech_bubble: Clearbox - [AI Apocalypse, what to really worry about](https://www.clearbox.ai/blog/2023-11-21-ai-apocalypse-what-you-really-need-to-be-afraid-of), garbage in, garbage out.
-- :speech_bubble: Revelate - [Bad data could ruin your AI dreams](https://revelate.co/blog/how-bad-data-can-derail-your-ai-projects/)
+- :speech_balloon: Clearbox - [AI Apocalypse, what to really worry about](https://www.clearbox.ai/blog/2023-11-21-ai-apocalypse-what-you-really-need-to-be-afraid-of), garbage in, garbage out.
+- :speech_balloon: Revelate - [Bad data could ruin your AI dreams](https://revelate.co/blog/how-bad-data-can-derail-your-ai-projects/)
 
 ### Replication crisis
 - :newspaper: [1500 scientists lift the lid on reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
@@ -126,7 +126,7 @@ Not all links are fully tagged. Please consider contributing if you find an erro
 - :newspaper: [A fleet of Star Trek articles](https://retractionwatch.com/2020/12/10/elsevier-looking-into-very-serious-concerns-after-student-calls-out-journal-for-fleet-of-star-trek-articles-other-issues)
 - :speech_balloon: [Does scientific misconduct cause patient harm?](https://retractionwatch.com/2013/02/19/does-scientific-misconduct-cause-patient-harm-the-case-of-joachim-boldt/#more-12494)
 - Examples of fraudsters
-    - :newspaper: [Stapel](https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#:~:text=Diederik Stapel%2C the social psychology,major research projects and studies),
+    - :newspaper: [Stapel](<https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#:~:text=Diederik Stapel%2C the social psychology,major research projects and studies>),
     - :newspaper: [in the Italian health ministers](https://retractionwatch.com/2018/03/14/stem-cell-researchers-investigated-for-misconduct-recommended-for-roles-at-italys-nih/),
     - :newspaper: [Macchiarini](https://retractionwatch.com/category/paolo-macchiarini/)
 - :newspaper: [The rat with huge genitals](https://www.businessinsider.com/fake-science-crisis-ai-generated-rat-giant-penis-image-2024-3)
@@ -191,7 +191,7 @@ Not all links are fully tagged. Please consider contributing if you find an erro
 - UNESCO [brochure on Open Science](https://en.unesco.org/sites/default/files/open_science_brochure_en.pdf)
 - Open Science [advent calendar](https://peerj.com/preprints/27580/)
 - UNESCO [Recommendations for Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)
-- [Open Science as a game changer](https://worksup-media.s3.eu-west-1.amazonaws.com/OAI12_s5_Ana Persic___233ba2f19wu1973.pdf)
+- [Open Science as a game changer](<https://worksup-media.s3.eu-west-1.amazonaws.com/OAI12_s5_Ana Persic___233ba2f19wu1973.pdf>)
 - [UNESCO Recommendations reactions from Open Science advocates](https://policylabs.frontiersin.org/content/commentary-unesco-open-science-recommendation), including a statement from Barend Mons.
 - [How to manage data - Data Stewardship and FAIR skills](https://community.data.4tu.nl/2021/10/26/how-to-manage-data-data-stewardship-and-fair-skills/)
 - PHIL_OS - [A philosophy of Open Science for Diverse Research Environments](https://opensciencestudies.eu/), and [heir project](https://opensciencestudies.eu/project/) and [subprojects](https://opensciencestudies.eu/subprojects/).
@@ -423,7 +423,6 @@ Not all links are fully tagged. Please consider contributing if you find an erro
 - [Data Stewards: Addressing Multidisciplinary Data Management Needs](http://www.ijdc.net/article/view/604/520)
 - Valentina Pasquale - [Data Steward per i dati FAIR](https://www.eventi.garr.it/it/conf21/programma/40-conferenza-garr-2021/speaker/745-valentina-pasquale)
 - [Skills 4 EOSC](https://www.skills4eosc.eu/)
-- 
 
 ## Part 8 - Data Management
 
