@@ -1,2 +1,636 @@
-# data-stewardship-knowledgebase
+# The Data Stewardship Knowledgebase
+
 The Data Stewardship Knowledgebase attempts to act as a hub for Data stewardship knowledge scattered throughout the internet.
+
+The first draft links were extracted from the slides that can be found in https://zenodo.org/records/11199741, originally from Dr. Elena Giglia (https://orcid.org/0000-0003-4927-2632)
+I took some freedoms rearranging some links from some sections to others to avoid repetition and confusion. Some dead links (i.e. redirecting to deleted pages) present in the slides were removed.
+
+## Tags cheatsheets
+<details>
+  <summary>Emoji Key</summary>
+
+Many links are tagged with emojis. Here's what they mean:
+- Type of content:
+    - :speech_balloon: -> Opinion piece, presentation, blog post or other content by an individual or organization.
+    - :newspaper: -> News article, editoral or piece by a journalist.
+    - :office: -> Official communication from an institutional organization.
+    - :judge: -> Text of a law or other binding document.
+    - :bookmark_tabs: -> Published research article or review in a reviewed journal, or similar (e.g. ongoing open peer review)
+    - :page_facing_up: -> Preprint in a preprint server
+    - :page_with_curl: -> Poster
+    - :closed_book: -> Book or long-form report
+    - :information_desk_person: -> Presentation to a meeting, conference, etc...
+    - :memo: -> Official agreement, treatise or manifesto of purpose with no legally binding effects.
+    - :hammer: -> Tool, practical resource checklist or handbook.
+- Format of content:
+    - The default format is a simple webpage (HTML), and has no associated emoji.
+    - :small_red_triangle_down: -> PDF (`.pdf`)
+    - :small_orange_diamond: -> Presentation (e.g. `.pptx`)
+    - :arrow_forward: -> Video
+- Language:
+    - The default language is English, and has no associated emoji.
+    - :it: -> Italian
+    - :fr: -> French
+    - :es: -> Spanish
+- Accessibility:
+    - The default accessibility is open access, and has no associated emoji.
+    - :lock: -> This resource is paywalled, requires a login or is not publicly and freely available due to other reasons.
+    - :closed_lock_with_key: -> This resource requires a login for how it is structured, but it is otherwise free to use or read.
+- Content quality or fruibility:
+    - :beginner: -> Easy to use or beginner friendly resource
+    - :star: -> This resource is particularly important or fundamental for a topic.
+    - :x: -> Retracted, false or misleading information
+- Other:
+    - :cookie: -> This website requires the usage of cookies.
+    - :inbox_tray: -> This link immediately downloads a file.
+    - :black_circle: -> This link has been screened, but no other emoji tags apply.
+
+Not all links are fully tagged. Please consider contributing if you find an error or an omission.
+
+> [!INFO]
+> I'm currently in the process on adding link tags. Current section being worked on: Part 3
+
+</details>
+
+## Part 1 - Why do we need Open Science?
+### What is Open Science
+- :speech_balloon: [Open Science - a definition](https://doi.org/10.32388/838962)
+- :office: :star: UNESCO definition of [Open Science](https://www.unesco.org/en/open-science/about)
+- :office: :small_red_triangle_down: :inbox_tray: [Strategic Research and Innovation Agenda](https://eosc.eu/wp-content/uploads/2023/12/20231114_SRIA_1.2_final2.pdf): Critical success factors for Open Science in Europe
+- :office: :small_red_triangle_down: :inbox_tray: Horizon Europe's [application template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) whit a section on Open Science practices
+- :cookie: :page_facing_up: [Valid reasons not to participate in open science practices](https://figshare.com/articles/preprint/Valid_Reasons_not_to_Participate_in_Open_Science_Practices/5909854/1)
+- :cookie: :speech_balloon: [How to reclaim ownership of scholarly publishing](https://www.researchprofessionalnews.com/rr-news-europe-views-of-europe-2022-1-how-to-reclaim-ownership-of-scholarly-publishing/)
+- Dr. Glaucomflecken's videos on :cookie: :arrow_forward: [Academic Publishing](https://www.youtube.com/watch?v=ukAkG6c_N4M) and :cookie: :arrow_forward: [How to publish a manuscript](https://www.youtube.com/watch?v=dx71U3u--qU)
+- SIMBA - [Value of global scientific publishing](https://www.stm-publishing.com/global-scientific-technical-publishing-2023-2027/)
+- :office: :judge: ANVUR - [Classificazione delle riviste](https://www.anvur.it/attivita/asn/asn-2018-2020/)
+- :cookie: :bookmark_tabs: [Rosendaal H. –Geurts P. Forces and functions in scientific communication:an analysis of their interplay, CRISP 1997](https://research.utwente.nl/en/publications/forces-and-functions-in-scientific-communication-an-analysis-of-t)
+- :speech_balloon: Jean-Claude Guedon - [Scholarly Communication and Scholarly Publishing](https://oaspa.org/guest-post-by-jean-claude-guedon-scholarly-communication-and-scholarly-publishing/)
+- :page_with_curl: [101 innovations in scholarly publishing](http://figshare.com/articles/101_Innovations_in_Scholarly_Communication_the_Changing_Research_Workflow/1286826)
+
+### Impact of Open Science during COVID
+- :cookie: :bookmark_tabs: [Open science approaches to COVID-19](https://dx.doi.org/10.12688%2Ff1000research.26084.1)
+- :speech_balloon: :it: Elena Giglia - [Open Science è una necessità, non una noia burocratica](https://www.techeconomy2030.it/2020/03/23/open-science-e-una-necessita-non-una-noia-burocratica/)
+- :bookmark_tabs: OECD - [Mobilizing Science in times of crisis](https://www.oecd-ilibrary.org/sites/855c7889-en/index.html?itemId=/content/component/855c7889-en)
+- :closed_book: :small_red_triangle_down: [The State of Open Data 2021 - Open Data Saves Lives](https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2021/17061347)
+- :newspaper: [Collaboration in the times of COVID](https://www.nature.com/articles/d41586-021-01069-w)
+- :speech_balloon: [All prints should be preprints](https://undark.org/2020/10/29/opinion-all-prints-preprints/)
+- :speech_balloon: :arrow_forward: Robert Terry - [Implications of the pandemic for publications](https://www.youtube.com/watch?v=TrZrRcCoQSo)
+- :newspaper: [Calling all coronavirus researchers: stay open](https://www.nature.com/articles/d41586-020-00307-x)
+- :speech_balloon: :cookie: [Don't lockdown research results](https://www.coalition-s.org/open-access-lessons-during-covid-19-no-lockdown-for-research-results/)
+- :newspaper: [STM makes open all coronavirus research](https://www.stm-assoc.org/2020_03_13_News_Release_Publishers_commit_to_working_together_to_combat_COVID19_.pdf) **for the duration of the outbreak**.
+- :office: :small_red_triangle_down: :closed_book: UNESCO - [Open Science Outlook 1](https://doi.org/10.54677/GIIC6829), with implications of the coronavirus
+- :speech_balloon: [The purpose of publications in a pandemic and beyond](https://wonkhe.com/blogs/the-purpose-of-publications-in-a-pandemic-and-beyond/)
+
+### How publishers squeeze science for money
+- :cookie: :speech_balloon: [Open science needs no martyrs](https://erc.europa.eu/news-events/magazine/open-science-needs-no-martyrs-we-must-recognize-need-reform)
+- :speech_balloon: :information_desk_person: :small_red_triangle_down: Dr. Jon Tennant - [Open Science is just Good Science](https://figshare.com/articles/Open_Science_is_just_good_science/7097738)
+- :bookmark_tabs: :small_red_triangle_down: [Disrupting the subscription journal's business model for the necessary large-scale transformation to open access](http://hdl.handle.net/11858/00-001M-0000-0026-C274-7)
+- :newspaper: [Costs, benefits of making all articles free to read](https://www.sciencemag.org/news/2021/01/new-mandate-highlights-costs-benefits-making-all-scientific-articles-free-read), the stance of publishers
+- :speech_balloon: [ACS and author's right retention](https://www.coalition-s.org/blog/american-chemical-society-acs-and-authors-rights-retention/)
+    - :newspaper: [ACS news on Green Open Access](https://acsopenscience.org/researchers/zero-green-oa/) and :speech_balloon: [COAR's response of ACS news](https://www.coar-repositories.org/news-updates/coars-response-to-the-american-chemical-societys-new-fee-for-repository-deposit/)
+- :speech_balloon: [Publisher control of all scholarly infrastructure](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/)
+- :bookmark_tabs: Jefferson Pooley - [Surveillance Publishing](https://doi.org/10.31235/osf.io/j6ung)
+- [Navigating Risk in vendor data privacy practices](https://zenodo.org/doi/10.5281/zenodo.10078609), an analysis of Elsevier's ScienceDirect
+- :newspaper: SPARC's [2021 Update](https://sparcopen.org/news/2021/sparc-releases-2021-update-to-landscape-analysis-roadmap-for-action/)
+- :bookmark_tabs: [Principles of the self-journal of Science: bringing ethics and freedom to scientific publishing](https://www.sjscience.org/article?id=46)
+- :cookie: Scienceopen - [Open Access Survey results](https://blog.scienceopen.com/2021/10/open-access-survey-results/)
+- :newspaper: :speech_balloon: [Sci-hub, Elsevier and Wiley declare war on research communities in India](https://www.newsclick.in/Elsevier-Wiley-Declare-War-Research-Community-India)
+- :speech_balloon: [Ten ways to find open access articles](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) and :speech_balloon: [alternative ways to access journal articles](http://www.openaccess.nl/en/events/alternative-ways-to-access-journal-articles)
+- :speech_balloon: Jeff Pooley - [Large Language Publishing](https://doi.org/10.54900/zg929-e9595), how LLMs are created on journal data
+- Generative artificial intelligence and copyright law
+    - :office: :small_red_triangle_down: [Congressional research service report](https://crsreports.congress.gov/product/pdf/LSB/LSB10922)
+    - :speech_balloon: :it: Simone Aliprandi, [# Intelligenza artificiale e creazioni “sintetiche”: le intricate questioni di diritto d’autore](https://www.dirittodautore.it/approfondimenti/intelligenza-artificiale-e-creazioni-sintetiche-le-intricate-questioni-di-diritto-dautore/)
+    - :speech_balloon: :lock: :cookie: Ben Lorica - [The future of creativity](https://www.linkedin.com/pulse/future-creativity-intersection-ai-copyright-ben-lorica-%E7%BD%97%E7%91%9E%E5%8D%A1-skjac/)
+- :office: :newspaper: [Use of generative AI in research](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en) guidelines by the European Research Area Forum
+- :office: :newspaper: [Artificial Intelligence Act](https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai) by the European Parliament
+- :speech_bubble: Clearbox - [AI Apocalypse, what to really worry about](https://www.clearbox.ai/blog/2023-11-21-ai-apocalypse-what-you-really-need-to-be-afraid-of), garbage in, garbage out.
+- :speech_bubble: Revelate - [Bad data could ruin your AI dreams](https://revelate.co/blog/how-bad-data-can-derail-your-ai-projects/)
+
+### Replication crisis
+- :newspaper: [1500 scientists lift the lid on reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
+- :newspaper: [Replication crisis in cancer science](https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis)
+
+### Cheating metrics and Fraud
+- :speech_balloon: [Citation cartels in mathematics](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
+- :bookmark_tabs: [Citation gaming induced by bibliometric evaluation: A country-level comparative analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221212)
+- :newspaper: [Surge in number of 'extremely productive' authors](https://www.nature.com/articles/d41586-023-03865-y)
+- :speech_balloon: :information_desk_person: :small_red_triangle_down: [How Open practices prevent fraud](https://oaspa.org/wp-content/uploads/2023/04/Dorothy-Slides.pptx.pdf)
+- :speech_balloon: [Defence against the dark arts: a proposal for a new MSc course](https://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html)
+- :black_circle: [AI text found in published articles](https://pubpeer.com/publications/F93A8D69350BC6B12AB48B132161A7)
+    - :black_circle: [List of ChatGPT evidence](https://retractionwatch.com/papers-and-peer-reviews-with-evidence-of-chatgpt-writing/) by retractionwatch.
+- :speech_balloon: :lock: [Rethinking retractions](https://www.science.org/doi/10.1126/science.362.6413.390)
+- :bookmark_tabs: [Impact factor and retractions correlations](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full)
+- :bookmark_tabs: :small_red_triangle_down: [The natural selection of bad science](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.160384)
+- :black_circle: [Retracted coronavirus papers](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/)
+- :x: :bookmark_tabs: [Retracted paper after readers expressed doubts](https://www.nejm.org/doi/full/10.1056/nejmc2021225)
+- :newspaper: [A fleet of Star Trek articles](https://retractionwatch.com/2020/12/10/elsevier-looking-into-very-serious-concerns-after-student-calls-out-journal-for-fleet-of-star-trek-articles-other-issues)
+- :speech_balloon: [Does scientific misconduct cause patient harm?](https://retractionwatch.com/2013/02/19/does-scientific-misconduct-cause-patient-harm-the-case-of-joachim-boldt/#more-12494)
+- Examples of fraudsters
+    - :newspaper: [Stapel](https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#:~:text=Diederik Stapel%2C the social psychology,major research projects and studies),
+    - :newspaper: [in the Italian health ministers](https://retractionwatch.com/2018/03/14/stem-cell-researchers-investigated-for-misconduct-recommended-for-roles-at-italys-nih/),
+    - :newspaper: [Macchiarini](https://retractionwatch.com/category/paolo-macchiarini/)
+- :newspaper: [The rat with huge genitals](https://www.businessinsider.com/fake-science-crisis-ai-generated-rat-giant-penis-image-2024-3)
+- :newspaper: [Peer review and scientific publishing are faltering](https://www.medscape.com/viewarticle/1000328)
+- :speech_balloon: [Top italian scientists](https://www.roars.it/top-italian-scientists-buco-nella-classifica-degli-studi/) - in number of retractions
+- :hammer: :closed_lock_with_key: [Pubpeer](https://pubpeer.com/)
+
+### Bad metrics
+- :information_desk_person: :small_orange_diamond: Jon Tennant - [Barriers to Open Science for Junior Researchers](https://figshare.com/articles/Barriers_to_Open_Science_for_junior_researchers/5383711)
+- :speech_balloon: [The significant papers are not those highly cited](http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/14/the-academic-papers-researchers-regard-as-significant-are-not-those-that-are-highly-cited/)
+- :closed_book: :lock: :small_red_triangle_down:[Gaming the metrics](https://mitpress.mit.edu/books/gaming-metrics)
+- :speech_balloon: [Impact or perish](https://www.roars.it/online/impact-or-perish-lossessione-per-limpatto-delle-pubblicazioni-scientifiche-genera-frodi-e-condotte-abusive/)
+- :bookmark_tabs: [Causes for the persistence of impact factor mania](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3967521/)
+- :newspaper: :speech_balloon: [What's wrong with the impact factor in 5 graphs](https://www.natureindex.com/news-blog/whats-wrong-with-the-jif-in-five-graphs)
+- :cookie: :speech_balloon: [Metrics are ruining scientific research](https://www.theguardian.com/higher-education-network/2018/feb/16/performance-driven-culture-is-ruining-scientific-research?CMP=share_btn_fb)
+- :star: [COARA](https://coara.eu/), reforming academic evaluation
+    - :speech_balloon: :information_desk_person: [Open Science cafe' on COARA](https://www.icdi.it/it/news/187-l-iniziativa-europea-per-la-riforma-della-valutazione-della-ricerca)
+    - :memo: [The COARA commitments](https://coara.eu/agreement/the-commitments/)
+- :speech_balloon: [The purpose of scientific communication](https://wonkhe.com/blogs/the-purpose-of-publications-in-a-pandemic-and-beyond/)
+
+## Part 2 - COARA and the reform for evaluation
+- :small_red_triangle_down: :office: [Coalition S preamble](https://www.coalition-s.org/wp-content/uploads/cOAlitionS_Preamble.pdf)
+- :office: :closed_book: European commission - [Towards a reform of the research assessment system](https://op.europa.eu/en/publication-detail/-/publication/36ebb96c-50c5-11ec-91ac-01aa75ed71a1)
+- :star: :memo: COARA - [Full text agreement](https://coara.eu/agreement/the-agreement-full-text/)
+    - COARA - [Action Plan](https://coara.eu/agreement/action-plan/) and [COARA action plans on Zenodo](https://zenodo.org/communities/coara_action_plans/)
+    - :memo: :small_red_triangle_down: COARA - See Annex 4 of the full text: [Practical tools and options to consider](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf)
+    - :newspaper: [COARA Working groups](https://coara.eu/news/latest-updates-on-coara-working-groups-activities/)
+    - :newspaper: [COARA National Chapters](https://coara.eu/news/building-a-stronger-network-coara-national-chapters-convene-for-a-first-exchange-forum/)
+- :speech_balloon: [All choose to play, some choose to change](https://blogs.lse.ac.uk/impactofsocialsciences/2015/09/11/researcher-as-victim-researcher-as-predator/)
+- Origins of COARA:
+    - :office: :closed_book: 2021 - [Outcomes of proceedings](https://data.consilium.europa.eu/doc/document/ST-14308-2021-INIT/en/pdf), on research evaluation
+    - :office: :closed_book: 2018 - [Commission Recommendations on access and preservation of scientific information](https://op.europa.eu/en/publication-detail/-/publication/2ea66d3f-649a-11e8-ab9c-01aa75ed71a1)
+    - :office: :closed_book: 2022 - [Outcomes of proceedings](https://www.consilium.europa.eu/media/56958/st10126-en22.pdf), on research evaluation
+- :office: :closed_book: [European research area policy agenda Years 2022/2024](https://research-and-innovation.ec.europa.eu/document/download/0c2f5f95-3274-4ab8-9acb-d6673dc238b8_en?filename=ec_rtd_era-policy-agenda-2021.pdf)
+- :newspaper: [ANVUR aderisce a COARA, ma non la rispetta](https://www.roars.it/anvur-aderisce-a-coara-ma-gli-impegni-sottoscritti-sono-in-contrasto-con-le-decisioni-prese/)
+- :newspaper: [ERC abandons the Impact Factor](https://sfdora.org/resource/european-research-council-erc/)
+    - :newspaper: [Additional information](https://erc.europa.eu/news-events/news/evaluation-research-proposals-why-and-what-ercs-recent-changes)
+- Ongoing changes:
+    - :memo: [Making FAIReR assessments possible](https://doi.org/10.5281/zenodo.4701374)
+    - :cookie: :newspaper: [University of Uthrect rejects current university ranking standards](https://www.coimbra-group.eu/current-university-rankings-are-not-consistent-with-open-science/)
+    - :newspaper: [Impact factor abandoned by Dutch university in hiring and promotion decisions](https://www.nature.com/articles/d41586-021-01759-5)
+    - :newspaper: [Sorbona ditches WOS](https://www.roars.it/la-sorbona-adotta-open-alex-e-interrompe-labbonamento-a-web-of-science/)
+- Alternative metric sources:
+    - :hammer: [Leiden Open Ranking](https://open.leidenranking.com/)
+    - :hammer: [Open Alex](https://openalex.org/)
+    - :hammer: [Open Citations](https://opencitations.net/index)
+- :newspaper: [DORA case studies](https://sfdora.org/dora-case-studies/) on the implementation of alternative metrics
+- :hammer:[Reformscape](https://sfdora.org/reformscape/), an overview of ongoing changes and policies in research evaluation. Works a bit like a serch engine.
+- Measuring open science
+    - :speech_balloon: [The benefits of Open science are not inevitable: monitoring its development should be value-led](https://blogs.lse.ac.uk/impactofsocialsciences/2023/08/14/the-benefits-of-open-science-are-not-inevitable-monitoring-its-development-should-be-value-led/)
+    - :closed_book: :star: :small_red_triangle_down: OPUS - [Reforming research assessment](https://opusproject.eu/wp-content/uploads/2023/09/OPUS_D3.1_IndicatorsMetrics_FINAL_PUBLIC.pdf), on alternative indicators and metrics of researcher performance
+    - :black_circle: [PathOS](https://pathos-project.eu/) and the :hammer: [PathOS indicator handbook](https://pathos-project.eu/introducing-the-open-science-indicator-handbook)
+- :newspaper: [Revisiting the metric tide](https://www.researchprofessionalnews.com/rr-news-uk-views-of-the-uk-2022-12-the-tide-is-turning-revisiting-the-metric-tide/)
+- :closed_book: :office: :small_red_triangle_down: European commission - [Indicator frameworks for fostering open knowledge practices in science and scholarship](https://op.europa.eu/en/publication-detail/-/publication/b69944d4-01f3-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-108756824)
+- :arrow_forward: :information_desk_person: Open Science Cafe' - [Riforma della valutazione della ricerca](https://youtu.be/APLr8Qj7Ycs)
+- :page_facing_up: [What we talk about when we talk about research quality. A discussion on responsible research assessment and Open Science](https://zenodo.org/doi/10.5281/zenodo.10650139)
+- :it: [Qualita' o formalita'?](https://doi.org/10.5281/zenodo.7433047), an italian document on the European research assessment reform.
+
+## Part 3 - The Open Alternative
+- Neelie Kroes, ex European Commissioner for Competition and Digital Agenda - [Let's make science Open](https://www.youtube.com/watch?v=6sJbi2eaPXc)
+- Australian Research council [ban of preprints](https://www.theguardian.com/education/2021/aug/20/devastating-career-event-scientists-caught-out-by-change-to-australian-research-council-fine-print) and the backlash from scientists.
+- UNESCO [brochure on Open Science](https://en.unesco.org/sites/default/files/open_science_brochure_en.pdf)
+- Open Science [advent calendar](https://peerj.com/preprints/27580/)
+- UNESCO [Recommendations for Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)
+- [Open Science as a game changer](https://worksup-media.s3.eu-west-1.amazonaws.com/OAI12_s5_Ana Persic___233ba2f19wu1973.pdf)
+- [UNESCO Recommendations reactions from Open Science advocates](https://policylabs.frontiersin.org/content/commentary-unesco-open-science-recommendation), including a statement from Barend Mons.
+- [How to manage data - Data Stewardship and FAIR skills](https://community.data.4tu.nl/2021/10/26/how-to-manage-data-data-stewardship-and-fair-skills/)
+- PHIL_OS - [A philosophy of Open Science for Diverse Research Environments](https://opensciencestudies.eu/), and [heir project](https://opensciencestudies.eu/project/) and [subprojects](https://opensciencestudies.eu/subprojects/).
+- [Connecting the building blocks of Open Science: an ecological approach](https://septentrio.uit.no/index.php/SCS/article/view/6772/6795)
+- FORCE 2021 - [Diversity and Inclusion](https://doi.org/10.5281/zenodo.5763936)
+- ANVUR - [Focus on gender disparity](https://www.anvur.it/wp-content/uploads/2024/01/Focus-equilibrio-di-genere-2023.pdf)
+- [Open, but not patronizing - Science as a Global Public Good](https://www.un.org/sites/un2.un.org/files/keynote_arianna_becerril.pdf)
+- [Equity, Diversity, Inclusion and Accessibility](https://youtube.com/watch?v=M3fN65m00PU&si=EnSIkaIECMiOmarE)
+- Wellcome - [Anti-racist principles and toolkit](https://wellcome.org/what-we-do/diversity-and-inclusion/wellcomes-anti-racist-principles-and-toolkit)
+- [CARE principles tor Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043s)
+- Paola Masuzzo - [Open Science Fair 2019, "Free is not enough"](https://www.youtube.com/watch?v=UFNSXl4SLwg)
+- [Open Science - The very idea](https://link.springer.com/book/10.1007/978-94-024-2115-6), full text book (PDF)
+- National Open Science Cloud Initiative - [Benefits of Open Science](https://www.nosci.mk/?page_id=26)
+- SKILLS4EOSC - [Advocacy Kit](https://www.skills4eosc.eu/resources/advocacy-kit)
+- European Commission - [Science for policy, participation of citizens in public policy making](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=PI_COM:C(2023)8627)
+- [The Open Science Rainbow](https://doi.org/10.5281/zenodo.1195647)
+- Eva Mendez, [Open Science Conference 2019](https://www.open-science-conference.eu/wp-content/uploads/2019/03/Eva-Mendez.pdf)
+- LERU - [Open Science and its role in universities](https://www.leru.org/files/LERU-AP24-Open-Science-full-paper.pdf), "advice paper"
+- LERU - [Implementing Open Science](https://www.leru.org/publications/implementing-open-science)
+- European Commission - [Progress on Open Science](https://ec.europa.eu/research/openscience/pdf/ec_rtd_ospp-final-report.pdf) (2020)
+- [Open Science at UNIMI](https://openscience.unimi.it/scienzaapertaunimi/)
+- [Open Science: cambiamento culturale cercasi](https://zenodo.org/records/4014989)
+- Netherlands - [National Open Science plan](https://www.openscience.nl/wp-content/uploads/2022/04/NPOS_AmbitionDocument.pdf)
+- France - [National Open Science plan](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf) and [National funds for Open Science](https://www.ouvrirlascience.fr/national-fund-for-open-science/)
+- Italia - [Programma Nazionale per la ricerca](https://www.mur.gov.it/it/aree-tematiche/ricerca/programmazione/programma-nazionale-la-ricerca) (2021-2027)
+- Germany - [The National Research Data Infrastructure](https://www.nfdi.de/association/?lang=en)
+- [Open Science, open data and open scholarship](https://www.frontiersin.org/articles/10.3389/fdata.2019.00043/abstract)
+- European University Association: [Universities without walls](https://eua.eu/resources/publications/957)
+- The White House - [Federally funded research freely available](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
+- [Year of Open Science](https://www.cos.io/yos-conference)
+- [CONOSC](https://conosc.org/), the council for National Open Science Coordination
+- [Open Science in practice webinars](https://www.nwo.nl/en/open-science-practice-webinar-series)
+- [Open Science MOOC](https://moodle.learn.eosc-synergy.eu/course/view.php?id=7&section=1), moodle learn online course.
+- [Passport for Open Science](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/)
+- [Open Life Science](https://www.youtube.com/c/openlifesci)
+- [The Turing Way](https://the-turing-way.netlify.app/welcome)
+- UNESCO - [Open Science toolkit](https://www.unesco.org/en/open-science/toolkit)
+- FOSTER - [Open Science Training Handbook](https://www.fosteropenscience.eu/content/open-science-training-handbook)
+- [Open Science .it](https://open-science.it/)
+- S-LEGAMI! [Open Access - manuale d'uso per ricercatori](https://doi.org/10.5281/zenodo.6402623)
+- [OS@UNITO](https://www.oa.unito.it/new/)
+- Example of Open Science: [Marine Science](https://doi.org/10.3389/fmars.2021.659522)
+- [Open Research Commons](https://zenodo.org/records/10032913)
+- [How to make more published research true](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001747)
+- European commission - [Code of conduct for research integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
+- [Roles and Responsibilities for Data Stewards](https://doi.org/10.5281/zenodo.4665389)
+- DORA - [Advancing science or advancing careers?](https://sfdora.org/resource/advancing-science-or-advancing-careers-researchers-opinions-on-success-indicators/)
+- [RRI Tools](https://rri-tools.eu/)
+- [SWG OSI guidelines on research integrity](https://data.consilium.europa.eu/doc/document/ST-1207-2021-INIT/en/pdf)
+- [A manifesto of reproducible science](https://www.nature.com/articles/s41562-016-0021)
+- FORRT - [Framework for Open and Reproducible Research Training](https://forrt.org/)
+- [Five selfish reasons to work reproducibly](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
+- [The Italian Reproducibility Network](https://www.itrn.org/)
+
+
+## Part 4 - Open Tools
+- [Zenodo](https://zenodo.org/)
+- OLS - [Github for collaboration](https://youtu.be/7Oq81K27NmU)
+- PARTHENOS - [Virtual research environment](https://parthenos.d4science.org/web/parthenos_vre)
+- ORION [Inspiring stories](https://www.orion-openscience.eu/public/2021-07/ORION_inspiring_stories_booklet_2021_0.pdf)
+- ORION [Co-creation Menu](https://www.orion-openscience.eu/public/2018-05/D3.1%20Menu%20of%20Creation%20Tools.pdf)
+- UNESCO [Data and knowledge co-creation: a citizen science perspective](https://www.un.org/sites/un2.un.org/files/uta_wehn.pdf)
+- [European citizen science initiative](https://eu-citizen.science/)
+- PARTHENOS [Citizen science and the humanities](https://training.parthenos-project.eu/sample-page/citizen-science-in-the-digital-arts-and-humanities/)
+- [Citizen Science Italia](https://www.museonaturalemaremma.it/csi/) and [its creation announcement](https://www.nnb.isprambiente.it/it/nasce-lassociazione-nazionale-citizen-science-italia-ets)
+- [Moving forward together with Open Science](https://www.rathenau.nl/en/inclusive-science/moving-forward-together-open-science)
+- [Meaningful participation in Citizen Science, a strategy](https://www.linkedin.com/pulse/meaningful-participation-citizens-research-strategy-frederike-schmitz/)
+- Cos4EOSC - [Co-creation for EOSC](https://cos4cloud-eosc.eu/)
+- OPERAS - [COESO: Collaborative Engagement on Societal Issues](https://www.operas-eu.org/projects/coeso/)
+- OPERAS - [VERA: Enabling collaborative research with and for society](https://operas-eu.org/services/vera/) and [access to the service](https://vera.operas-eu.org/en/home)
+- Conference: [Connect, collaborate, create](https://ccc.sciencesconf.org/)
+- PHDontrack - [Pre-registration](https://www.phdontrack.net/open-science/preregistration/index.html)
+- [OSFregistries](https://osf.io/registries/) for research pre-registration
+- [Humanities Commons](https://hcommons.org/) for humanities research pre-registration
+- [Octopus](https://science-octopus.org/) - micro publications
+- JOTE - [Journal of Trial and Error](https://archive.jtrialerror.com/)
+- [Plan S](https://www.coalition-s.org/resources/rights-retention-strategy/) for rights retention
+- OPEN AIRE's [Knowledge Graph](https://graph.openaire.eu/)
+- [Unpaywall](https://unpaywall.org/)
+- [Open Knowledge Maps](https://openknowledgemaps.org/)
+- [Lens.org](https://www.lens.org/), an heterogeneous knowledge graph of patents, datasets, publications, etc...
+- Collaborative writing: [Authorea](https://www.authorea.com/)
+- [Pundit web annoations](https://www.youtube.com/channel/UCjCmeVg1nxO2ztAy2XkFfuA) tutorial
+- [Replacing traditional journals](https://doi.org/10.5281/zenodo.5526634)
+- [Overleaf](https://www.overleaf.com/)
+- [Publication strategy for Open Science](https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit#gid=165846403)
+- Novel publishing: [Github](https://github.com/) for code
+- Novel publishign: [protocols.io](https://www.protocols.io/) for protocols
+- [Europe's community in Zenodo](https://zenodo.org/communities/eu/) for EU funded research and [its announcement](https://blog.zenodo.org/2024/03/20/2024-03-20-eu-open-research-repository/)
+- [Ten simple rules to consider regarding preprint submission](https://doi.org/10.1371/journal.pcbi.1005473)
+- [Open science - cosa è andato storto durante il COVID19](https://altreconomia.it/open-science-covid-19-biorxiv/)
+- [How science beat the virus](https://www.theatlantic.com/magazine/archive/2021/01/science-covid-19-manhattan-project/617262/)
+- Bill and Melinda Gates foundation - [Policy refresh](https://gatesfoundationoa.zendesk.com/hc/en-us/articles/24810787662100-Policy-Refresh-2025-Overview)
+- [A practical guide for preprints](https://doi.org/10.5281/zenodo.5600534)
+- Queios - [Platform to create preprints](https://www.qeios.com/)
+- [Directory for preprint servers](https://asapbio.org/preprint-servers)
+- [Preprints.org for the humanities](https://www.preprints.org/subject/browse/arts_humanities)
+- [Open laboratory notebooks](https://openlabnotebooks.org/)
+- [Open laboratory notebooks: good for everyone](https://doi.org/10.12688/f1000research.17710.2)
+- [Should we get rid of the scientific paper?](https://www.theguardian.com/books/2022/apr/11/the-big-idea-should-we-get-rid-of-the-scientific-paper)
+- [(Open) Lab notebook for the humanities](https://www.labarchives.com/2020/05/21/using-an-eln-for-humanities/)
+- [Research Equals](https://www.researchequals.com/) - pay for closing.
+- [Open Research Europe](https://open-research-europe.ec.europa.eu/)
+- Wellcome - [Open Research](https://wellcomeopenresearch.org/)
+- [What is open peer review?](https://f1000research.com/articles/6-588/v1)
+- [Multi-stage open peer review](https://f1000research.com/articles/6-588/v1)
+- Open Research Europe - [Benefits of Open peer review](https://open-research-europe.ec.europa.eu/blog/the-benefits-of-open-peer-review)
+- [Pre-review](https://prereview.org/)
+- [Journals are outsourcing peer review](https://www.sciencemag.org/news/2021/04/fifteen-journals-outsource-peer-review-decisions)
+- Registered Reports - [Peer Community](https://rr.peercommunityin.org/)
+- Public peer review - [PubPeer](https://pubpeer.com/)
+- Bibliography management - [Zotero](https://www.zotero.org/)
+- Publishing virtual collections - [Clarin](https://www.clarin.eu/content/virtual-collections)
+- [Go open: a beginner's guide to open education](https://dcu.libguides.com/GoOpen)
+- University of Utrecth - [Open Education](https://www.uu.nl/en/research/open-science/knowledge-center/good-practices-faq/open-education)
+- Skills4EOSC - [FAIR by design](https://zenodo.org/doi/10.5281/zenodo.7875540)
+- [The FAIR guiding principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+- [Sustainable and FAIR data sharing in the humanities](https://allea.org/portfolio-item/sustainable-and-fair-data-sharing-in-the-humanities/)
+- The [EOSC Vienna Declaration](https://eosc-launch.eu/fileadmin/user_upload/k_eosc_launch/EOSC_Vienna_Declaration_2018.pdf)
+- [Ten simple rules for innovative dissemination of research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161944/)
+- The Turing way - [Guide for communication](https://the-turing-way.netlify.app/communication/communication.html)
+- Scienceeurope conference [Connecting scientific communication](https://scienceeurope.org/media/juahixbr/20240326_science-communication-conference-strategic-conclusions.pdf)
+- Camelia Boban - [Donne nella scienza e Wikipedia](https://unito.webex.com/webappng/sites/unito/recording/891323283e4b103bbf3900505681416f/playback)
+- [Open Science community incubator program](https://zenodo.org/doi/10.5281/zenodo.7432456)
+- [Open Science community starter kit](https://www.startyourosc.com/)
+
+## Part 5 - Open Access
+- [Berlin declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration)
+- [Ten myths about open access](https://peerj.com/preprints/27580/)
+- [Shift academic culture through publication](https://doi.org/10.12688/f1000research.11415.2)
+- European Commission - [Study of scientific publishing in Europe](https://op.europa.eu/s/zizY) (2024)
+- France - [Barometer of Open Science](https://barometredelascienceouverte.esr.gouv.fr/)
+- Sherpa [Juliet](https://v2.sherpa.ac.uk/juliet/)
+- [Coalition S](https://www.coalition-s.org/)
+- [SHERPA spiegato](https://drive.google.com/file/d/1TtGOu7SsgbT2qIT0w0D4rvG8dHPLmIYK/view?usp=sharing), video tutorial
+- [Preprint, postprint, print - a diagram](https://commons.wikimedia.org/wiki/File:Preprint_postprint_published.svg)
+- [Researchgate v publishers](https://www.enago.com/academy/researchgate-gets-sued-copyright-infringement/), [Researchgate bows to publishers](https://www.chemistryworld.com/news/researchgate-bows-to-pressure-from-publishers-on-copyrighted-material/3008288.article) and [Researchgate announcement on the topic](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns)
+- OpenDOAR - [Directory of Open Access Repositories](https://v2.sherpa.ac.uk/opendoar/)
+- ASAPbio - [Directory of preprint repositories](https://asapbio.org/preprint-servers)
+- [Comparing research articles to their preprints](https://link.springer.com/article/10.1007/s00799-018-0234-1)
+- [Preprints on coronavirus are impressively reliable](https://www.economist.com/science-and-technology/preprints-on-the-coronavirus-have-been-impressively-reliable/21807492)
+- [Tracking changes between preprints and postprints during the coronavirus](https://doi.org/10.1371/journal.pbio.3001285)
+- DoaJ - [Open Access Journal repository](https://www.doaj.org/)
+- [Sirio](https://www.ojs.unito.it/), open access @ UNITO
+- [Beyond Plan S - Open access practices](https://docs.google.com/presentation/d/1x127NNZG1um-wBq-jSINGaZiqH6hUOPcbZt1-ZkKECU/edit)
+- Plan S - [Why hybrid journals are bad](https://www.coalition-s.org/why-hybrid-journals-do-not-lead-to-full-and-immediate-open-access/)
+- Open Science Cafè - [Attività europee per l'open access](https://www.icdi.it/it/attivita/competence-centre/open-science-cafe)
+- European Commission - [Proceedings on equitable publishing](https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf)
+- ORE - [Open Research Europe](https://open-research-europe.ec.europa.eu/about)
+- [Action Plan for Diamond Open Access](https://www.scienceeurope.org/our-resources/action-plan-for-diamond-open-access/)
+- [Towards a federated, open community for diamond open access](https://thd.hypotheses.org/296)
+- DIAMAS - [Developing open access in institutions](https://diamasproject.eu/)
+- [Open Access in Europe, learning from DIAMASand CRAFT-OA](https://vimeo.com/852992828)
+- DIAMAS - [Early impression from OA survey](https://diamasproject.eu/early-impressions-from-the-diamas-survey/) and [survey data](https://zenodo.org/records/8296708)
+- [Conference conclusions on open access](https://globaldiamantoa.org/wp-content/uploads/2023/10/202310-Global-Summit-Conclusions-Way-Forward.pdf)
+- [Manifesto of Open Science](https://globaldiamantoa.org/wp-content/uploads/2023/10/manifiestoCienciaBien-Publico.pdf)
+- Overlay Journals - [Episciences Guide](https://www.openaire.eu/episciences-guide) (OPENAIRE)
+- [Open Library for humanities](https://www.openlibhums.org/site/about/)
+- Cambrige [What are predatory publishers?](https://osc.cam.ac.uk/about-scholarly-communication/author-tools/considerations-when-choosing-journal/predatory-publishers)
+- [Riviste predatorie - una questione di ecologia](https://www.roars.it/online/riviste-predatorie-una-questione-di-ecologia/)
+- Compass to Publishing - [Checklist to find predatory Journals](https://app.lib.uliege.be/compass-to-publish)
+- [Directory of Open Access Books](https://www.doabooks.org/)
+- [OPERAS](https://operas-eu.org/), useful resources for open access publishing
+- [Open Access Book Network](https://hcommons.org/groups/open-access-books-network/)
+- [Open Access Book Toolkit](https://oabooks-toolkit.org/)
+- [Open Access @ Università di trento](https://www.giurisprudenza.unitn.it/32/monografie)
+- [Collane @ UniTO](https://www.collane.unito.it/oa/)
+- [Open Book Publishers](https://www.openbookpublishers.com/)
+- [Ubiquity Press](https://www.ubiquitypress.com/)
+- [UCL Press](https://www.uclpress.co.uk/)
+- [Subscribe2Open](https://subscribetoopencommunity.org/)
+- Plan S - [Journal Checker Tool](https://journalcheckertool.org/)
+- Coalition S - [Rights Retention Strategy](https://www.coalition-s.org/rights-retention-strategy/)
+- Plan S - [Disappointing Transformative Journals](https://www.coalition-s.org/blog/transformative-journals-analysis-from-the-2022-reports/)
+- Plan S [gits rid of financial support for transformative agreements](https://www.coalition-s.org/coalition-s-confirms-the-end-of-its-financial-support-for-open-access-publishing-under-transformative-arrangements-after-2024/)
+- Plan S - [The rights retention strategy and publisher equivocation](https://www.coalition-s.org/the-rrs-and-publisher-equivocation-an-open-letter-to-researchers/)
+- Coalition S - [Journal Comparison Service](https://www.coalition-s.org/journal-comparison-service/)
+- ESAC - [What are transformative agreements?](https://esac-initiative.org/about/transformative-agreements/)
+- [Contratti trasformativi in UniTO](https://www.sba.unito.it/it/chi-pubblica)
+- [Contratti trasformativi: a vantaggio di chi?](https://www.roars.it/online/contratti-trasformativi-a-vantaggio-di-chi/)
+- AISA - [Contratti trasformativi: un offerta che non si può rifiutare?](https://aisa.sp.unipi.it/accordi-trasformativi-unofferta-che-non-si-puo-rifiutare/)
+- [The Budapest Open Access Initiative: 20th Anniversary Recommendations](https://www.budapestopenaccessinitiative.org/boai20/)
+- CRUI - [Contratti in corso](http://www.crui-risorselettroniche.it/tabella/)
+- ESAC - [Registry on transformative agreements](https://esac-initiative.org/about/transformative-agreements/agreement-registry/)
+- AISA - [Perchè contratti trasformativi?](https://aisa.sp.unipi.it/accordi-trasformativi-perche-collaborare-alla-loro-promozione/)
+- [Current transformative agreements are not transformative](https://blog.frontiersin.org/2020/03/10/current-transformative-agreements-are-not-transformative/)
+- [It is not transformative if nothing changes](https://blog.frontiersin.org/wp-content/uploads/2022/06/Frontiers_transformative_agreements_whitepaper_2022.pdf)
+- [Transformative agreements are not holding up open access](https://www.timeshighereducation.com/blog/transformative-agreements-are-not-holding-open-access)
+- [OA: Need to move away from transformative agreements](https://www.su.se/english/news/open-access-need-to-move-away-from-transformative-agreements-1.683787)
+- [Six myths about transformative agreements](https://crln.acrl.org/index.php/crlnews/article/view/25032/32927)
+- AISA - [Contratti trasformativi in Italia](https://aisa.sp.unipi.it/contratti-trasformativi-una-lettera-aperta-alla-crui/)
+
+## Part 6 - Copyright, licenses and legal aspects of data
+- Simone Aliprandi - [Diritti d'autore: la basi](https://www.slideshare.net/simonealiprandi/corso-copyright-licenze-aperte-personale-bibliotecario-feb2023)
+- European Commission - [FAQ articles on rights retention](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&pageNumber=1&pageSize=50&sortBy=publicationDate&keywords=rights%20retention&isExactMatch=true&type=0,1&status=0)
+- [Creative Commons Licenses](https://en.wikipedia.org/wiki/Creative_Commons_license)
+- Don't waste your time infographic - [Creative Commons](https://www.dontwasteyourtime.co.uk/elearning/creative-commons-infographic-licenses-explained/)
+- [Choose a license chooser](https://chooser-beta.creativecommons.org/)
+- [Can I use that picture?](https://thevisualcommunicationguy.com/2019/02/27/can-i-use-that-picture-infographic-revised-and-simplified/)
+- [Creative commons search engine](https://search.creativecommons.org/)
+- [Software Licenses and Data Governance](https://www.apogeonline.com/libri/software-licensing-data-governance-simone-aliprandi/)
+- [Copyleft licenses](https://en.wikipedia.org/wiki/Copyleft)
+- OSSWATCH - [License Differentiation](http://oss-watch.ac.uk/apps/licdiff/)
+- AISA - [# Corte dei conti e open access alle immagini dei beni culturali](https://aisa.sp.unipi.it/corte-dei-conti-e-open-access-alle-immagini-dei-beni-culturali/)
+- AI e diritto d'autore: [AI Act: cosa dicono le norme sul diritto d'autore](https://www.ai4business.it/intelligenza-artificiale/ai-act-cosa-dicono-le-norme-sul-diritto-dautore/)
+- Simone Aliprandi - [L'autore Artificiale](https://aliprandi.org/books/autore-artificiale/)
+- European Commission - [Open Science and Intellectual Property Rights](https://research-and-innovation.ec.europa.eu/document/download/2b841e11-fea5-4d31-a1cf-d765f86af07b_en?filename=ec_rtd_open-science-and-ip-report.pdf)
+- [EU Legal Framework on Data](https://doi.org/10.21428/1192f2f8.e9ac5bfc)
+- [Data Property, Data Standards and Common European Data Spaces](https://dx.doi.org/10.2139/ssrn.4428364)
+- OpenAIRE - [How do I know if my research data is protected?](https://www.openaire.eu/how-do-i-know-if-my-research-data-is-protected)
+- [Introduction to property rights in Research Data](http://eprints.gla.ac.uk/171314/)
+- Simone Aliprandi - [Quali diritti sui dati?](https://www.slideshare.net/simonealiprandi/2014-1029-opendatalombardia)
+- Simone Aliprandi - [Che cosa copre il diritto d'autore?](https://www.slideshare.net/simonealiprandi/corso-copyright-licenze-aperte-personale-bibliotecario-feb2023)
+- [CC Factsheets](https://doi.org/10.5281/zenodo.840651)
+- (Slide 44)
+
+
+## Part 7 - The role of data stewards
+- [Time to rethink the divide between academic and support staff](https://www.nature.com/articles/d41586-022-01081-8)
+- [Realising the open science cloud](https://op.europa.eu/en/publication-detail/-/publication/2ec2eced-9ac5-11e6-868c-01aa75ed71a1)
+- Strategic Agenda of the [European Open Science Cloud](https://www.eosc.eu/sites/default/files/EOSC-SRIA-V1.0_15Feb2021.pdf)
+- [Invest 5% of research founds to ensure data is reusable](https://www.nature.com/articles/d41586-020-00505-7)
+- Figure-Eight - [Data Science Report](http://visit.crowdflower.com/rs/416-ZBE-142/images/CrowdFlower_DataScienceReport_2016.pdf)
+- [Cost of not having FAIR data](https://publications.europa.eu/en/publication-detail/-/publication/d375368c-1a0a-11e9-8d04-01aa75ed71a1/language-en)
+- GARR - [Cos'è un Data Steward?](https://www.garr.it/it/news-e-eventi/2150-sondaggio-sui-data-steward-in-italia-una-mappatura-delle-figure-a-supporto-della-gestione-dei-dati-della-ricerca)
+- Open Science Cafè - [Cos'è un Data Steward?](https://www.icdi.it/it/news/121-il-data-steward-chi-e-cosa-fa-e-perche-e-fondamentale)
+- Report - [Towards the realization of Data Stewards for the life sciences](https://doi.org/10.5281/zenodo.3471707)
+- Copenhagen University - [Competences of a Data Steward](https://docs.google.com/presentation/d/1YoJbQFqpMOoRFRPUnfZ0pH8Xh4Yds5pbnPXVv6CZtSg/edit#slide=id.p)
+- [Data Stewards: Addressing Multidisciplinary Data Management Needs](http://www.ijdc.net/article/view/604/520)
+- Valentina Pasquale - [Data Steward per i dati FAIR](https://www.eventi.garr.it/it/conf21/programma/40-conferenza-garr-2021/speaker/745-valentina-pasquale)
+- [Skills 4 EOSC](https://www.skills4eosc.eu/)
+- 
+
+## Part 8 - Data Management
+
+### Networking
+- data-stewards@lists.icdi.it
+- data_science_training@lists.codata.org
+- oa-italia@openarchives.it ([register here](https://liste.cineca.it/cgi-bin/mailman/listinfo/oa-italia))
+
+- General or generic
+    - [CESSDA - Data Management Expert Guide](https://dmeg.cessda.eu/), with focus on [Train-The-Trainer](https://dmeg.cessda.eu/Archived/Training/Training-Resources/Library/Training-Packages/Train-the-Trainers) chapter.
+    - [RDM Kit - Data Life Cycle](https://rdmkit.elixir-europe.org/)
+    - [Research Data Framework](https://www.nist.gov/programs-projects/research-data-framework-rdaf)
+    - [JISC - Research Data Management Toolkit](https://www.jisc.ac.uk/guides/research-data-management-toolkit)
+    - [Research Data Netherlands - Essentials For Data Support](https://datasupport.researchdata.nl/en/start-the-course)
+    - [UK Data Service - Research Data Management](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
+    - [Open Research on The Turing Way](https://the-turing-way.netlify.app/welcome)
+    - [EOSC synergy course](https://moodle.learn.eosc-synergy.eu/course/view.php?id=7) - Commented to be relatively limited.
+    - [Sage - Research Data](https://study.sagepub.com/corti2e)
+    - [RDA - Research Data Management](https://doi.org/10.5281/zenodo.7326279)
+    - [RDA - DMP question checklist](https://doi.org/10.5281/zenodo.7326279)
+    - [Data Management Plan Decision Tree](https://doi.org/10.5281/zenodo.7190004)
+- Costs of data management
+    - [OPENAire RDM Costs](https://www.openaire.eu/how-to-comply-to-h2020-mandates-rdm-costs)
+    - [Uk Data Service Costing tool](https://ukdataservice.ac.uk/app/uploads/costingtool.pdf)
+    - [Data Stewardship Wizard Costs evaluator](https://storage-costs-evaluator.ds-wizard.org/)
+- Data Collection
+    - [EU: Data collection Tips and Tricks](https://think.f1000research.com/wp-content/uploads/2021/07/ORE_%E2%80%93_OpenData_%E2%80%93_Data_Collection_v1.pdf)
+    - [TU Delft - Main points for good data management](https://doi.org/10.5281/zenodo.3819203)
+    - [Uk Data Service - Data management checkslist](https://ukdataservice.ac.uk/media/622416/trainingresourcespack.pdf) - See page 24
+- Personal data
+    - [Harvard security risks tiers](https://files.vpr.harvard.edu/files/vpr-documents/files/data_classification_table_abridged_7.23.13_0.pdf)
+    - [JOTS - Personal Data Risks](https://scholar.harvard.edu/files/mercecrosas/files/techsci-datatags-sweeneycrosasbarsinai.pdf)
+    - [CESSDA - Processing personal data]https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Processing-personal-data
+    - [GDPR in Research](https://www.ru.nl/rdm/gdpr-research/)
+    - [Privacy Risk Assessment in Research Infographic](https://surfdrive.surf.nl/files/index.php/s/BPRxchnZ44NZAgW)
+    - [DHARIA Consent Form Wizard](https://consent.dariah.eu/form/dariah-eldah-consent-form-wizard)
+    - UK Data Service - [Anonymization](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/quantitative.aspx)
+    - OpenAIRE - [Amnesia](https://amnesia.openaire.eu/)
+- Researcher Engagement
+    - [Book - Engaging Researchers with Data Management, The Cookbook](https://books.openbookpublishers.com/10.11647/obp.0185/)
+    - [Open Science in pills](https://vidensportal.deic.dk/RDMelearn), with researcher comments.
+- Social Sciences Data Management
+    - [CESSDA](https://www.cessda.eu/)
+    - [DARIAH Pathfinder to Data Management Best Practices](https://training.parthenos-project.eu/sample-page/manage-improve-and-open-up-your-research-and-data/)
+    - [Open Methods](https://openmethods.dariah.eu/)
+    - [Ariadne - Archeological Data Management](https://ariadne-infrastructure.eu/)
+- File naming
+    - [University of Edinburgh - File Naming](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
+    - [UK Data Service - File Naming Conventions](https://www.ukdataservice.ac.uk/manage-data/format/organising.aspx)
+    - [MIT - README file and folder schema](https://libraries.mit.edu/data-management/store/organize/)
+- READMEs
+    - [Cornell University - Writing a README](https://data.research.cornell.edu/content/readme)
+    - [Center for Research Data - Guidelines for creating a README](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf)
+- Documentation
+    - [UK data service - Data documentation](https://www.ukdataservice.ac.uk/manage-data/document/data-level.aspx)
+    - [MANTRA EDINA - Electronic Lab Notebook](https://mantra.ed.ac.uk/organisingdata/)
+- Version Control and Collaboration
+    - [GIT](https://git-scm.com/)
+    - [University of Leicester - Data Management ABC: Versioning](https://www2.le.ac.uk/services/research-data/old-2019-12-11/documents/UoL_VersionControlChart_d0-1.pdf/at_download/file)
+    - [Open Life Science - GitHub for scientific collaboration](https://youtu.be/7Oq81K27NmU)
+- Data Entry and quality
+    - [CESSDA - Data Entry](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/3.-Process/Data-entry-and-integrity)
+    - [Goodtables - Data Entry](https://goodtables.io/)
+    - [UK Data Service - Health check for numeric data](https://www.ukdataservice.ac.uk/about-us/our-rd/qamydata.aspx)
+    - [Data cleaning with OpenRefine](https://openrefine.org/)
+- Data Storage and Backup
+    - [EU - Report on where researchers store data](https://op.europa.eu/s/xfNn)
+    - [Checksum checker](http://checksumchecker.sourceforge.net/)
+    - [CESSDA - Guide on storage and backups](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/4.-Store/Storage)
+    - [DCC - Selecting what to preserve](https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data)
+    - [FOSTER - Personal Data](https://www.fosteropenscience.eu/node/2330)
+- Data Citation
+    - DCC - [Guidelines on data citation](https://www.dcc.ac.uk/guidance/how-guides/cite-datasets)
+    - Datacite - [How to guides](https://datacite.org/cite-your-data.html)
+    - [Make Data Count](https://makedatacount.org/)
+- Extra
+    - [23 Things for Data Stewards](https://doi.org/10.5281/zenodo.3773662)
+    - [10 Simple Rules for the Care and Feeding of scientific data](https://arxiv.org/pdf/1401.2134v1.pdf)
+- Networking and Social
+    - [Reproducibility Coffee](https://www.itrn.org/initiatives/reprocoffee)
+
+
+## Part 9 - FAIR Data
+- [The European Research Data Landscape](https://op.europa.eu/s/xfNn)
+- GOFAIR - [The Data Train](https://vimeo.com/215975839)
+- [The FAIR guiding principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+- Clearbox - [AI Apocalypse](https://www.clearbox.ai/blog/2023-11-21-ai-apocalypse-what-you-really-need-to-be-afraid-of)
+- [The need of the industry to go FAIR](https://direct.mit.edu/dint/article/2/1-2/276/10011/The-Need-of-Industry-to-Go-FAIR)
+- [The State of Open Data 2017](https://figshare.com/articles/_/5481187)
+- [Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud](https://content.iospress.com/articles/information-services-and-use/isu824)
+- [Open Science and Data Management for Early Career Scientists](https://doi.org/10.48557/SFSWF9)
+- [FAIR myths](https://vidensportal.deic.dk/en/FAIR)
+- EOSC Podcast - [Making Open Science FAIR for researchers](https://www.eoscsecretariat.eu/news-opinion/eosc-podcast-special-making-open-science-fair-researchers)
+- Australian Research Data Commons - [FAIR data training](https://www.ands.org.au/working-with-data/fairdata/training)
+- ALLEA [Sustainable and FAIR data sharing in the Humanities](https://allea.org/portfolio-item/sustainable-and-fair-data-sharing-in-the-humanities/)
+- [FAIR principles for Research Software](https://doi.org/10.15497/RDA00068)
+- [Practical Guide for Software Management Plans](https://doi.org/10.5281/zenodo.7038280)
+- [Ten Simple rules for making training materials FAIR](https://doi.org/10.1371/journal.pcbi.1007854)
+- Skills4EOSC - [FAIR by design learning materials draft](https://zenodo.org/doi/10.5281/zenodo.7875540) and [non draft](https://zenodo.org/doi/10.5281/zenodo.8305539)
+- European Commission - [Turning FAIR into reality](https://ec.europa.eu/info/publications/turning-fair-reality_en)
+- [FAIR digital objects: from data pieces to actionable knowledge units](https://doi.org/10.3390/publications8020021)
+- [FAIR digital objects forum](https://fairdo.org/)
+- Eric Schultez - [FAIR Implementation Strategies](https://indico.neic.no/event/121/attachments/174/277/Erik_Schultes_-_FAIR__FAIR_Implementation_Profiles.pdf)
+- Swiss National Science Foundation - [FAIR principles Translation](http://www.snf.ch/SiteCollectionDocuments/FAIR_principles_translation_SNSF_logo.pdf)
+- [The road to FAIR and equitable science](https://www.lorentzcenter.nl/the-road-to-fair-and-equitable-science.html)
+- Lorentz conference - [Summary video](https://www.youtube.com/watch?v=vZ-i6XE2qcE)
+- [The FAIR hourglass](https://content.iospress.com/articles/fair-connect/fc221514)
+- [VODAN Africa - Raising the value of African health data](https://www.youtube.com/watch?v=xRYyMX-j3ck)
+- [OAI12 conference summary](https://indico.cern.ch/event/1015275/)
+- ELIXIR - [The FAIR cookbook](https://faircookbook.elixir-europe.org/content/home.html)
+- [FAIR Toolbox](https://fairtoolkit.pistoiaalliance.org/)
+- [How to FAIR](https://www.howtofair.dk/)
+- CODATA, RDA - [WorldFAIR](https://worldfair-project.eu/)
+- [Reusable FAIR Implementation Profiles as Accellerators of FAIR Convergence](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_13)
+- [Fair Implementation Profiles to Data Management Plan importer](https://github.com/ds-wizard/fip2dmp-importer/blob/main/README.md)
+- Nanopub - [Nanopublications](https://nanopub.net/)
+- Nanopub - [Nanosessions](https://nanopub.net/sessions)
+- [The Comparative anatomy of Nanopublications and FAIR digital objects](https://doi.org/10.3897/rio.8.e94150)
+- Developing FAIR data strategies - [FAIR Connect](https://fairconnect.pro/)
+- FAIRdo - [FAIR cookbook](https://kit-data-manager.github.io/fairdo-cookbook/)
+- FAIRification in practice - [ZonMw](https://www.zonmw.nl/en/research-and-results/fair-data-and-data-management/fairification/)
+- [A generic workflow for the Data FAIRification process](https://direct.mit.edu/dint/article/2/1-2/56/9988/A-Generic-Workflow-for-the-Data-FAIRification)
+- EOSC - [Consider FAIR a process](https://repository.eoscsecretariat.eu/index.php/s/C3a5WkpsFHL6GD3)
+- ANDS - [FAIR Data Training](https://www.ands.org.au/working-with-data/fairdata/training)
+- ANDS - [FAIR Tool](https://www.ands-nectar-rds.org.au/fair-tool)
+- Dans - [FAIR Aware](https://fairaware.dans.knaw.nl/)
+- Check how FAIR you are - [FAIR Aware](https://fairassist.org/#!/)
+- FAIR Self-Assessment - [Do I Pass for FAIR?](https://doi.org/10.5281/zenodo.4080866)
+- Findable
+    - Australian Research Data Commons - [Metadata](https://zenodo.org/doi/10.5281/zenodo.6459831)
+    - [Ten Simple Rules for Finding and Giving credit for Data](https://doi.org/10.1371/journal.pcbi.1010476)
+    - [Metadata Standards Catalog](https://rdamsc.bath.ac.uk/)
+    - Metadata for social sciences - [DDAlliance](https://ddialliance.org/)
+    - [DataCite Metadata Schema](https://schema.datacite.org/meta/kernel-4.5/)
+    - Metadata Templates - [CEDAR](https://metadatacenter.org/)
+    - FAIR Cookbook - [Metadata Profiles](https://fairplus.github.io/the-fair-cookbook/content/recipes/interoperability/creating-minimal-metadata-profiles.html)
+    - [Frictionless Data](https://frictionlessdata.io/)
+    - [Research Object Crate](https://www.researchobject.org/ro-crate/)
+    - [A multi-omics data analysis workflow packaged as a FAIR object](https://doi.org/10.1093/gigascience/giad115)
+    - [FAIR Signposting](https://signposting.org/FAIR/)
+    - [Practical webby FDOs with RO-Crate and FAIR Signposting](https://pure.manchester.ac.uk/ws/portalfiles/portal/300255290/TIB_FDO2024_signposting_ro_crate-11.pdf)
+    - Metadata for funding information - [Open Foundry Registries](https://www.crossref.org/services/funder-registry/)
+    - Openbrains - [PID-optimized research workflow](https://doi.org/10.5281/zenodo.4991733)
+- Accessible
+    - CESSDA - [Data Management Expert guide](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Access-categories)
+    - ALLEA report - [Sustainable and FAIR Data Sharing in the Humanities](https://doi.org/10.7486/DRI.tq582c863)
+    - [DRYAD](https://datadryad.org/stash) - a curated data repository
+    - [Netherlands DataVerse](https://dataverse.nl/)
+    - [DataverseNO: A National, Generic Repository and its Contribution to the Increased FAIRness of Data from the Long Tail of Research](https://septentrio.uit.no/index.php/Ravne/article/view/5514/5297)
+    - [Open Science Framework](https://osf.io/)
+    - [Registry of Research data Repositories](https://www.re3data.org/)
+    - DCC Guide - [Where to keep research data](https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data)
+    - DCC - [Is it the right repository for your data?](https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data#5)
+    - Science Europe - [Practical guide for the international alignment of research data management](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf)
+    - [Data Journal List](https://www.wiki.ed.ac.uk/display/datashare/Sources+of+dataset+peer+review)
+    - [Data Journals and Data reports - don't miss out on this useful publishing format!](https://blogs.ucl.ac.uk/open-access/2021/08/17/data-journals/)
+    - DANS - [Data formats for depositing](https://dans.knaw.nl/en/deposit/information-about-depositing-data/before-depositing/file-formats)
+    - National Archives - [Data formats for depositing](https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html)
+    - FAIR Cookbook - [Converting from proprietary to open formats](https://faircookbook.elixir-europe.org/content/recipes/interoperability/from-proprietary-to-open-standard-mzml-exemplar.html)
+- Interoperable
+    - Elixir - [Interoperability](https://elixir-europe.org/platforms/interoperability/faq)
+    - [Introduction to Humanities Research Data Management](https://doi.org/10.5281/zenodo.1491249)
+    - PARTHENOS - [What are standards?](https://training.parthenos-project.eu/sample-page/intro-to-ri/interoperability/what-are-standards/)
+    - [Rightfield](https://rightfield.org.uk/), Semantica data annotation by stealth
+    - [FAIRdom](https://fair-dom.org/), services for research data management
+    - FAIRcookbook - [Onthologies](https://faircookbook.elixir-europe.org/content/recipes/interoperability/introduction-terminologies-ontologies.html)
+    - PARTHENOS - [Formal Onthologies](https://training.parthenos-project.eu/sample-page/formal-ontologies-a-complete-novices-guide/data-heterogeneity-solutions/)
+    - PARTHENOS - [Data Heterogeneity](https://training.parthenos-project.eu/sample-page/formal-ontologies-a-complete-novices-guide/data-heterogeneity-solutions/)
+    - Bioportal - [Biomedical Onthologies](https://bioportal.bioontology.org/)
+    - OLS - [Onthology Search Platform](https://www.ebi.ac.uk/ols4/ontologies)
+    - [OntoME](https://ontome.net/) - build onthologies
+    - OntoME publication - [Making data fair with OntoME](https://content.iospress.com/articles/semantic-web/sw200416)
+    - [The Publishing Roles Onthology](https://sparontologies.github.io/pro/current/pro.html)
+    - FAIR cookbook - [Interlinking data](https://fairplus.github.io/the-fair-cookbook/content/recipes/interoperability.html)
+    - Data and metadata standards - [FAIRSharing](https://fairsharing.org/)
+    - [# Extending FAIR to FAIREr: Cognitive Interoperability and the Human Explorability of Data and Metadata](https://arxiv.org/abs/2301.04202)
+    - [Open research knowledge graph](https://orkg.org/)
+    - [Polifonia](https://polifonia-project.eu/), an example of interoperable data
+- Reusable
+    - CESSDA - [Documentation and metadata](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
+    - Provenance standard - [PROV](https://www.w3.org/TR/prov-primer/)
+    - Open notebooks: [Jupyter](http://jupyter.org/index.html), [protocols.io](https://protocols.io/), [Lab Notebooks for Humanities](https://www.labarchives.com/2020/05/21/using-an-eln-for-humanities/)
+    - UK Data Service - [Documentation for tabular data](https://www.ukdataservice.ac.uk/manage-data/document/data-level.aspx)
+    - Università di Trento - [Diritti sui dati](http://hdl.handle.net/11572/315657)
+    - OPEN AIRE - [Aspetti legali dei dati della ricerca](https://www.openaire.eu/item/aspetti-legali-dei-dati-della-ricerca)
+    - Open science cafè - [Diritti e Riuso](https://www.icdi.it/it/attivita/tf-cc/open-science-cafe)
+    - OPEN AIRE - [Legal Policy Webinars](https://www.openaire.eu/item/openaire-legal-policy-webinars)
+    - [Licensing FAIR data for reuse](https://direct.mit.edu/dint/article/2/1-2/199/10013/Licensing-FAIR-Data-for-Reuse)
+    - OPEN AIRE - [How do I know if my data is protected?](https://www.openaire.eu/how-do-i-know-if-my-research-data-is-protected)
+    - OPEN AIRE - [Can I use other people's data?](https://www.openaire.eu/can-i-reuse-someone-else-research-data)
+    - OESC Pillar - [Checklist to comply with regulation](https://www.eosc-pillar.eu/legal-compliance-guidelines-researchers-checklist)
+    - ALLEA - [Sustainable and FAIR Data Sharing in the Humanities](https://allea.org/portfolio-item/sustainable-and-fair-data-sharing-in-the-humanities/)
+    - [Creative Commons FactSheet](https://doi.org/10.5281/zenodo.840651)
+    - CESSDA - [Guide for copyright for international projects](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/5.-Protect/Copyright/Diversity-in-copyright)
+    - Simone Aliprandi - [Software Licenses](https://www.apogeonline.com/libri/software-licensing-data-governance-simone-aliprandi/)
+
+### Open Data
+- Digital Science Report - [The State of Open Data 2017](https://figshare.com/articles/_/5481187)
+- DANS - [Sharing data: good for science, good for you](https://www.youtube.com/watch?v=HJbo-OAaJ1I&feature=youtu.be)
+- PORT - [Why share data?](https://port.sas.ac.uk/mod/book/view.php?id=1317&chapterid=939)
+- UNESCO - [Open Data for AI. What now?](https://unesdoc.unesco.org/ark:/48223/pf0000385841)
+- European Commission - [Directive on Open Data](https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information)
+- [Direttive Italiane Open Data](https://indico.ict.inaf.it/event/2526/contributions/16408/)
+- [Closed data. Excuses, excuses](http://carlystrasser.net/closed-data-excuses-excuses/)
+- Digital Science Report - [The state of Open Data 2021](https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2021/17061347)
+- [Why don't we share data and code? Perceived barriers and benefits to public archiving practices](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1113)
+- Digital Science Report - [The state of Open Data 2023](https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2023/24428194)
+- UK Data Service - [Reasons not to share data](https://ukdataservice.ac.uk/media/622416/trainingresourcespack.pdf)
+- [What a difference a data repository makes: Six ways depositing data maximizes the impact of your science](https://theplosblog.plos.org/2021/10/data-repository/)
+- [The Open Science Rainbow](https://doi.org/10.5281/zenodo.1195647)
