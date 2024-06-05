@@ -74,4 +74,7 @@ This is a list of maintainers for the Data Stewardship Knowledgebase, in no part
 
 New maintainers may be added over time, at the discretion of the existing maintainers.
 
+# Style Guide
+The DSK follows a specific style guide to ensure consistency across the repository. You can read more about the style guide [here](style_guide.md).
+
 Happy contributing!
