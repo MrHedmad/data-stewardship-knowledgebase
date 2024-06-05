@@ -14,7 +14,7 @@ Links are tagged with emojis. You can check what they mean with the [Emoji Key](
 
 To contribute, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> [!INFO]
+> [!NOTE]
 > I'm currently in the process on adding link tags. Current section being worked on: Part 3
 
 ## Part 1 - Why do we need Open Science?
