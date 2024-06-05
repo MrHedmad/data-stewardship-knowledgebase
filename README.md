@@ -1,8 +1,9 @@
 <div align="center">
   
-<img src='https://raw.githubusercontent.com/MrHedmad/data-stewardship-knowledgebase/main/resources/images/dsk_logo_light.png' width='800'>
+<img src='https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_light.png?raw=true' width='600'>
 
 </div>
+<br><br>
 
 The Data Stewardship Knowledgebase attempts to act as a hub for Data stewardship knowledge scattered throughout the internet.
 
