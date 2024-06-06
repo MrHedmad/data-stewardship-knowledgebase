@@ -1,8 +1,11 @@
 <p align="center">
-  <picture>
-    <source srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_light.png?raw=true" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_dark.png?raw=true" alt="Light mode logo" width="500">
-  </picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_light.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dsk_logo_dark.png?raw=true">
+  <img alt="The logo for the DSK" src="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dsk_logo_dark.png?raw=true" width=600>
+</picture>
+
 </p>
 
 <br>
