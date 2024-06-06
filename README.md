@@ -1,9 +1,11 @@
-<div align="center">
-  
-<img src='https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_light.png?raw=true' width='600'>
+<p align="center">
+  <picture>
+    <source srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_light.png?raw=true" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_dark.png?raw=true" alt="Light mode logo" width="500">
+  </picture>
+</p>
 
-</div>
-<br><br>
+<br>
 
 The Data Stewardship Knowledgebase attempts to act as a hub for Data stewardship knowledge scattered throughout the internet.
 
