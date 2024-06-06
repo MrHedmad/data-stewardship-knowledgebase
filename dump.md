@@ -286,7 +286,7 @@ As I sort links, they may not fit in any of the categories I'm currently sorting
 
 ### Networking
 - data-stewards@lists.icdi.it
-- data_science_training@lists.codata.org
+- data_science_training@lists.codata.org ([register here](http://lists.codata.org/mailman/listinfo/data_science_training_lists.codata.org))
 - oa-italia@openarchives.it ([register here](https://liste.cineca.it/cgi-bin/mailman/listinfo/oa-italia))
 
 - General or generic
