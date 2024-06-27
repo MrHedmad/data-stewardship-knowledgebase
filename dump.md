@@ -106,7 +106,7 @@ As I sort links, they may not fit in any of the categories I'm currently sorting
 
 
 ## Part 4 - Open Tools
-- [Zenodo](https://zenodo.org/)
+- :hammer: [Zenodo](https://zenodo.org/)
 - OLS - [Github for collaboration](https://youtu.be/7Oq81K27NmU)
 - PARTHENOS - [Virtual research environment](https://parthenos.d4science.org/web/parthenos_vre)
 - ORION [Inspiring stories](https://www.orion-openscience.eu/public/2021-07/ORION_inspiring_stories_booklet_2021_0.pdf)
