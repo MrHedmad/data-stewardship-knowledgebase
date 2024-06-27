@@ -491,3 +491,12 @@ As I sort links, they may not fit in any of the categories I'm currently sorting
 - UK Data Service - [Reasons not to share data](https://ukdataservice.ac.uk/media/622416/trainingresourcespack.pdf)
 - [What a difference a data repository makes: Six ways depositing data maximizes the impact of your science](https://theplosblog.plos.org/2021/10/data-repository/)
 - [The Open Science Rainbow](https://doi.org/10.5281/zenodo.1195647)
+
+### Miscellaneous
+- Bjorn Brembs - [Replacing Academic Journals](https://doi.org/10.1098/rsos.230206)
+- [Blog of Bjorn Brembs](https://bjoern.brembs.net/), which focuses on open science
+- The [LIFES consortium](https://www.gofair.foundation/lifes-press-release): will potentially make courses and other training material
+- Add links to the resources of [RDM Kit](https://rdmkit.elixir-europe.org/), especially broken down by usability
+- https://frictionlessdata.io/
+- [Open Science, Open Data, and Open Scholarship: European Policies to Make Science Fit for the Twenty-First Century](https://www.frontiersin.org/articles/10.3389/fdata.2019.00043/abstract)
+
