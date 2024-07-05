@@ -1,9 +1,9 @@
 <p align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dks_logo_light.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dsk_logo_dark.png?raw=true">
-  <img alt="The logo for the DSK" src="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/images/dsk_logo_dark.png?raw=true" width=600>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/src/images/dks_logo_light.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/src/images/dsk_logo_dark.png?raw=true">
+  <img alt="The logo for the DSK" src="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/src/resources/images/dsk_logo_dark.png?raw=true" width=600>
 </picture>
 
 </p>
@@ -11,13 +11,6 @@
 <br>
 
 The Data Stewardship Knowledgebase attempts to act as a hub for Data stewardship knowledge scattered throughout the internet.
-
-The DSK is split up into broad topics. You can access them by clicking the links below:
-- [Open Science](/topics/open_science/README.md);
-- [Research Data Management](/topics/data_management/README.md);
-- [Legal aspects of data](/topics/legal/README.md);
-- [Computer Science concepts](/topics/computer_science/README.md);
-- [FAIR and FAIRification](/topics/FAIR/README.md);
 
 Links are tagged with emojis. You can check what they mean with the [Emoji Key](emoji_key.md).
 
