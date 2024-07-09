@@ -1,5 +1,6 @@
 # Open Science
 
+> [!TIP] Definition
 > Open science is a set of principles and practices that aim to make scientific research from all fields accessible to everyone for the benefits of scientists and society as a whole. Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable.
 >
 > - [Unesco Recommendation on Open Science](https://www.unesco.org/en/open-science/about)
@@ -7,8 +8,6 @@
 This section is dedicated to resources that help you understand and practice open science. It includes resources on open access, open data, open source, open peer review, open education, and more.
 
 Some articles fall into multiple categories, so they are included in the most relevant section.
-
-[Emoji Reference](/emoji_key.md)
 
 ## Table of Contents
 - [What Open Science is and Definitions](#what-open-science-is-and-definitions)
@@ -33,20 +32,18 @@ This section includes definitions of Open Science from various sources.
     - See sections 1.3 for the definition of Open Science and some historical facts.
 - :office: :small_red_triangle_down: :closed_book: UNESCO - [Open Science Outlook 1](https://doi.org/10.54677/GIIC6829).
     - This is a very long document (74 pages), on the status of Open Science in 2023, but has a section of "Key Messages" that summarize its message. These include the benefits of Open Science, how to achieve its goals, how it has grown and what it needs to grow further.
-- :speech_balloon: [Open Science - a definition](https://doi.org/10.32388/838962).
-- :office: :small_red_triangle_down: :inbox_tray: Horizon Europe's [application template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) whit a section on Open Science practices
+- :office: :small_red_triangle_down: :inbox_tray: Horizon Europe's [application template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf) with a section on Open Science practices
     - Under the methodology section, the grant specifies that applicants should "Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives [e.g. 1 page]. If you believe that none of these practices are appropriate for your project, please provide a justification here."
 - :speech_balloon: :it: Elena Giglia - [Open Science è una necessità, non una noia burocratica](https://www.techeconomy2030.it/2020/03/23/open-science-e-una-necessita-non-una-noia-burocratica/)
     - An overview article about Open Science, scholarly publishing and the importance of making research accessible to everyone, also under the light of the covid-19 pandemic.
 - :speech_balloon: :information_desk_person: :small_red_triangle_down: Dr. Jon Tennant - [Open Science is just Good Science](https://figshare.com/articles/Open_Science_is_just_good_science/7097738)
-    - Slides. Tennant touches on what Open Science is, its benefits, and how to put it in practice.
+    - Tennant touches on what Open Science is, its benefits, and how to put it in practice.
 
 ## Scientific communication, Publishing and Publishers
 This section deals with scientific communication. In particular, it focuses on the role of publishers, how the publishing industry has changed over the years, and what new opportunities are available for researchers in the modern era.
 
-
 - :cookie: :speech_balloon: [How to reclaim ownership of scholarly publishing](https://www.researchprofessionalnews.com/rr-news-europe-views-of-europe-2022-1-how-to-reclaim-ownership-of-scholarly-publishing/)
-    - "“I chose to study science because I wanted to publish in Nature,” said no undergraduate student ever."
+    - Source of the quote "“I chose to study science because I wanted to publish in Nature,” said no undergraduate student ever."
     - A piece about how the current publishing system is not working for researchers.
 - :memo: SIMBA - [Value of global scientific publishing](https://www.stm-publishing.com/global-scientific-technical-publishing-2023-2027/)
     - Scientific publishing is a 12 billion dollar industry (in 2022).
@@ -56,7 +53,7 @@ This section deals with scientific communication. In particular, it focuses on t
     - How scholarly communication and scholarly publishing have diverged over the years, how scholarly publishing in the digital age currently is and how it could become.
 - :page_with_curl: [101 innovations in scholarly publishing](http://figshare.com/articles/101_Innovations_in_Scholarly_Communication_the_Changing_Research_Workflow/1286826)
 - :cookie: :speech_balloon: [Open science needs no martyrs](https://erc.europa.eu/news-events/magazine/open-science-needs-no-martyrs-we-must-recognize-need-reform)
-    - An iterview with Toma Susi, of the University of Vienna, touching on the need for reform in the publishing industry but that noone should pay for it in terms of career progression.
+    - An interview with Toma Susi, of the University of Vienna, touching on the need for reform in the publishing industry but that noone should pay for it in terms of career progression.
 - :bookmark_tabs: :small_red_triangle_down: [Disrupting the subscription journal's business model for the necessary large-scale transformation to open access](http://hdl.handle.net/11858/00-001M-0000-0026-C274-7)
     - "This paper makes the strong, fact-based case for a large-scale transformation of the current corpus of scientific subscription journals to an open access business model."
 - :newspaper: [Costs, benefits of making all articles free to read](https://www.sciencemag.org/news/2021/01/new-mandate-highlights-costs-benefits-making-all-scientific-articles-free-read), the stance of publishers.
@@ -87,7 +84,7 @@ These resources discuss in particular Elsevier.
 ### Open Access
 This section includes resources specifically about Open Access.
 
-- :cookie: Scienceopen - [Open Access Survey results](https://blog.scienceopen.com/2021/10/open-access-survey-results/)
+- :cookie: ScienceOpen - [Open Access Survey results](https://blog.scienceopen.com/2021/10/open-access-survey-results/)
     - A survey of 60 researchers about Open Access.The low number of respondents makes the results not very reliable.
     - Sampling strategy is also not clear. This may have been a convenience sample, on people who participated in a ScienceOpen event, making the results not generalizable.
 
@@ -125,7 +122,7 @@ The current push for "publishing at all costs" has led to a rise in fraud in the
 - :x: :bookmark_tabs: [Retracted paper after readers expressed doubts](https://www.nejm.org/doi/full/10.1056/nejmc2021225)
 - :newspaper: [A fleet of Star Trek articles](https://retractionwatch.com/2020/12/10/elsevier-looking-into-very-serious-concerns-after-student-calls-out-journal-for-fleet-of-star-trek-articles-other-issues)
 - :speech_balloon: [Does scientific misconduct cause patient harm?](https://retractionwatch.com/2013/02/19/does-scientific-misconduct-cause-patient-harm-the-case-of-joachim-boldt/#more-12494)
-- Examples of fraudsters
+- Examples of fraudsters:
     - :newspaper: [Stapel](<https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#:~:text=Diederik Stapel%2C the social psychology,major research projects and studies>),
     - :newspaper: [in the Italian health ministers](https://retractionwatch.com/2018/03/14/stem-cell-researchers-investigated-for-misconduct-recommended-for-roles-at-italys-nih/),
     - :newspaper: [Macchiarini](https://retractionwatch.com/category/paolo-macchiarini/)
