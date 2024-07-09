@@ -1,8 +1,8 @@
 <p align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/src/images/dks_logo_light.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/resources/src/images/dsk_logo_dark.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/src/resources/images/dks_logo_light.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/src/resources/images/dks_logo_dark.png?raw=true">
   <img alt="The logo for the DSK" src="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/src/resources/images/dsk_logo_dark.png?raw=true" width=600>
 </picture>
 
