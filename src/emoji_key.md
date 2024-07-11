@@ -14,6 +14,8 @@ Many links are tagged with emojis. Here's what they mean:
     - :information_desk_person: > Presentation to a meeting, conference, etc...
     - :memo: > Official agreement, treatise or manifesto of purpose with no legally binding effects.
     - :hammer: > Tool, practical resource checklist or handbook.
+    - :school: > Course
+    - 	:department_store: > Platform
 - Format of content:
     - The default format is a simple webpage (HTML), and has no associated emoji.
     - :small_red_triangle_down: > PDF (`.pdf`)
