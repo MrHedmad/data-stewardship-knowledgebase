@@ -106,26 +106,34 @@ As I sort links, they may not fit in any of the categories I'm currently sorting
 
 
 ## Part 4 - Open Tools
+### Generic
 - :hammer: [Zenodo](https://zenodo.org/)
-- OLS - [Github for collaboration](https://youtu.be/7Oq81K27NmU)
-- PARTHENOS - [Virtual research environment](https://parthenos.d4science.org/web/parthenos_vre)
-- ORION [Inspiring stories](https://www.orion-openscience.eu/public/2021-07/ORION_inspiring_stories_booklet_2021_0.pdf)
-- ORION [Co-creation Menu](https://www.orion-openscience.eu/public/2018-05/D3.1%20Menu%20of%20Creation%20Tools.pdf)
-- UNESCO [Data and knowledge co-creation: a citizen science perspective](https://www.un.org/sites/un2.un.org/files/uta_wehn.pdf)
-- [European citizen science initiative](https://eu-citizen.science/)
-- PARTHENOS [Citizen science and the humanities](https://training.parthenos-project.eu/sample-page/citizen-science-in-the-digital-arts-and-humanities/)
-- [Citizen Science Italia](https://www.museonaturalemaremma.it/csi/) and [its creation announcement](https://www.nnb.isprambiente.it/it/nasce-lassociazione-nazionale-citizen-science-italia-ets)
-- [Moving forward together with Open Science](https://www.rathenau.nl/en/inclusive-science/moving-forward-together-open-science)
-- [Meaningful participation in Citizen Science, a strategy](https://www.linkedin.com/pulse/meaningful-participation-citizens-research-strategy-frederike-schmitz/)
-- Cos4EOSC - [Co-creation for EOSC](https://cos4cloud-eosc.eu/)
-- OPERAS - [COESO: Collaborative Engagement on Societal Issues](https://www.operas-eu.org/projects/coeso/)
-- OPERAS - [VERA: Enabling collaborative research with and for society](https://operas-eu.org/services/vera/) and [access to the service](https://vera.operas-eu.org/en/home)
-- Conference: [Connect, collaborate, create](https://ccc.sciencesconf.org/)
-- PHDontrack - [Pre-registration](https://www.phdontrack.net/open-science/preregistration/index.html)
-- [OSFregistries](https://osf.io/registries/) for research pre-registration
-- [Humanities Commons](https://hcommons.org/) for humanities research pre-registration
-- [Octopus](https://science-octopus.org/) - micro publications
-- JOTE - [Journal of Trial and Error](https://archive.jtrialerror.com/)
+- :arrow_forward:  OLS - [Github for collaboration](https://youtu.be/7Oq81K27NmU) Video su come usare GitHub
+- :closed_lock_with_key: 	:department_store: PARTHENOS - [Virtual research environment](https://parthenos.d4science.org/web/parthenos_vre) Service platform
+
+### Citizen Science
+- :small_red_triangle_down: ORION [Inspiring stories](https://www.orion-openscience.eu/public/2021-07/ORION_inspiring_stories_booklet_2021_0.pdf) on co-creation, citizen science etc
+- 	:department_store: Platform on Citizen science in Europe [European citizen science initiative](https://eu-citizen.science/)
+- 	:department_store: :school: PARTHENOS: course about how to do citizen science in Humanities and Digital Arts [Citizen science and the humanities](https://training.parthenos-project.eu/sample-page/citizen-science-in-the-digital-arts-and-humanities/)
+- :information_desk_person:  :it: An example of Citizen Science in Italy (Maremma) [Citizen Science Italia](https://www.museonaturalemaremma.it/csi/) and [its creation announcement](https://www.nnb.isprambiente.it/it/nasce-lassociazione-nazionale-citizen-science-italia-ets)
+-  :information_desk_person: Example of Citizen Science (Dutch) [Moving forward together with Open Science](https://www.rathenau.nl/en/inclusive-science/moving-forward-together-open-science)
+- :speech_balloon: [Meaningful participation in Citizen Science, a strategy](https://www.linkedin.com/pulse/meaningful-participation-citizens-research-strategy-frederike-schmitz/)
+- :department_store: :school: Cos4EOSC - [Co-creation for EOSC](https://cos4cloud-eosc.eu/) Focus on how to do co-creation
+-  :department_store: :school: OPERAS - [COESO: Collaborative Engagement on Societal Issues](https://www.operas-eu.org/projects/coeso/)
+- :department_store: OPERAS - Focus on co-creation and citizen science in Social Sciences and Humanities[VERA: Enabling collaborative research with and for society](https://operas-eu.org/services/vera/) and [access to the service](https://vera.operas-eu.org/en/home)  
+- :information_desk_person: Registration of a conference on citizen science: [Connect, collaborate, create](https://ccc.sciencesconf.org/)
+
+###  :page_facing_up: Pre-registration and pre-print  
+- :hammer: PHDontrack - [Pre-registration](https://www.phdontrack.net/open-science/preregistration/index.html)
+- :department_store: Pre-registration Registry: https://www.cos.io/products/osf
+- :department_store: Pre-registration Registry, University of Pennsylvania (USA): https://aspredicted.org/
+- :department_store: Pre-registration for systematic reviews: https://www.crd.york.ac.uk/prospero/ Note: PROSPERO does not accept scoping reviews or literature scans. Sibling PROSPERO sites registers systematic reviews of human studies and systematic reviews of animal studies
+- :department_store: Open Registries Network [OSFregistries](https://osf.io/registries/) for research pre-registration
+- :department_store: pre-registration for Philosophy [Humanities Commons](https://hcommons.org/) for humanities research pre-registration
+- :department_store: UK publishing platform [Octopus](https://science-octopus.org/) - micro publications
+- :department_store: JOTE - [Journal of Trial and Error] An independent, diamond open-access journal redefining failure. (https://journal.trialanderror.org/)
+
+  ARRIVATA FINO A QUI
 - [Plan S](https://www.coalition-s.org/resources/rights-retention-strategy/) for rights retention
 - OPEN AIRE's [Knowledge Graph](https://graph.openaire.eu/)
 - [Unpaywall](https://unpaywall.org/)
