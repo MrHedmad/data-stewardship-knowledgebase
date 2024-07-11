@@ -4,7 +4,7 @@ Many links are tagged with emojis. Here's what they mean:
 
 - Type of content:
     - :speech_balloon: > Opinion piece, presentation, blog post or other content by an individual or organization.
-    - :newspaper: > News article, editoral or piece by a journalist.
+    - :newspaper: > News article, editorial or piece by a journalist.
     - :office: > Official communication from an institutional organization.
     - :judge: > Text of a law or other binding document.
     - :bookmark_tabs: > Published research article or review in a reviewed journal, or similar (e.g. ongoing open peer review)
@@ -12,10 +12,10 @@ Many links are tagged with emojis. Here's what they mean:
     - :page_with_curl: > Poster
     - :closed_book: > Book or long-form report
     - :information_desk_person: > Presentation to a meeting, conference, etc...
-    - :memo: > Official agreement, treatise or manifesto of purpose with no legally binding effects.
+    - :memo: > Official agreement, treatise or manifesto of purpose with no legally-binding effects.
     - :hammer: > Tool, practical resource checklist or handbook.
-    - :school: > Course
-    - 	:department_store: > Platform
+    - :school: > Course, training, how to
+    - :department_store: > Platform (data, resources, services...)
 - Format of content:
     - The default format is a simple webpage (HTML), and has no associated emoji.
     - :small_red_triangle_down: > PDF (`.pdf`)
