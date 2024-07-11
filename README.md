@@ -16,6 +16,8 @@ Links are tagged with emojis. You can check what they mean with the [Emoji Key](
 
 The first draft links of the DSK were extracted from the slides that can be found in https://zenodo.org/records/11199741, originally from Dr. Elena Giglia (https://orcid.org/0000-0003-4927-2632).
 
+You can access the DSK at this URL: https://mrhedmad.github.io/data-stewardship-knowledgebase/
+
 # Contributing
 
 This project is useless if it does not take into account everyone's opinions and contributions.
