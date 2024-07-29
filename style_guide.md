@@ -35,3 +35,10 @@ Try to answer the following questions, from the point of view of the reader:
 ## Prose
 When writing prose, please use clear and concise language.
 Avoid jargon or overly technical terms unless they are necessary for understanding the content. If you are unsure about the clarity of your writing, consider asking for feedback from other contributors. Provide links to external resources where appropriate to help readers learn more about a topic
+
+## Link types
+When linking, consider the permanence of the link.
+If possible, use a persistent identifier, like a DOI.
+
+When linking to articles, please consider [saving the page to the wayback machine first](https://wayback-api.archive.org/),
+and then linking to the archived version of the article.

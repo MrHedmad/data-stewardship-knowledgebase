@@ -1,6 +1,8 @@
 # Contributing to the Data Stewardship Knowledgebase
 
-Welcome to the Data Stewardship Knowledgebase! We're excited that you're interested in contributing. This guide will help you get started with the contribution process.
+Welcome to the Data Stewardship Knowledgebase!
+We're excited that you're interested in contributing.
+This guide will help you get started.
 
 ## Table of Contents
 - [Requirements](#requirements)
@@ -18,9 +20,12 @@ Before contributing, you should be familiar with the following:
 - [About Github and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 - You should understand what [git branches](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) are and how they work.
   - You might find [this guide from Atalassian](https://www.atlassian.com/git/tutorials/using-branches) helpful.
-- [About repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo)
-- Notes are written in Markdown. You can read more about Markdown [here](https://www.markdownguide.org/getting-started/), and Github's Markdown guide [here](https://guides.github.com/features/mastering-markdown/).
-- You should understand how the pull request process works. You can read more about it [here](https://docs.github.com/en/get-started/quickstart/github-flow).
+- [About repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo).
+- Pages are written in Markdown.
+  You can read more about Markdown [here](https://www.markdownguide.org/getting-started/),
+  and Github's Markdown guide [here](https://guides.github.com/features/mastering-markdown/).
+- You should understand how the pull request process works.
+  You can read more about it [here](https://docs.github.com/en/get-started/quickstart/github-flow).
 
 You are also required to:
 - Install [Git](https://git-scm.com/) on your local machine and configure it.
@@ -32,13 +37,21 @@ You might find [this comprehensive guide for git and github](https://wpmudev.com
 
 ## Getting Started
 To get started with contributing, follow these steps:
-1. Fork the repository by clicking the "Fork" button in the top right corner of the repository page. This will create a copy of the repository in your GitHub account. Read more about forking [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+1. Fork the repository by clicking the "Fork" button in the top right corner of the repository page.
+   This will create a copy of the repository in your GitHub account.
+   Read more about forking [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 2. Clone the forked repository to your local machine.
-3. Create a new branch for your changes. Give it a descriptive name that reflects the changes you are making. For example, if you are adding a new link about FAIR data in the humanities, you could name your branch `add-FAIR-humanities`.
+3. Create a new branch for your changes.
+   Give it a descriptive name that reflects the changes you are making.
+   For example, if you are adding a new link about FAIR data in the humanities, you could name your branch `add-FAIR-humanities`.
 4. Make your changes in your local copy of the repository.
-5. Commit your changes with descriptive commit messages. To read more about writing good commit messages, check out [this guide](https://chris.beams.io/posts/git-commit/). The git commit messages are the changelog of the project. It's worth spending some time to write them well.
+5. Commit your changes with descriptive commit messages.
+   To read more about writing good commit messages, check out [this guide](https://chris.beams.io/posts/git-commit/).
+   The git commit messages are the changelog of the project.
+   It's worth spending some time to write them well.
 6. Push your changes to your forked repository.
-7. Submit a pull request to the main repository. You can read more in the next section.
+7. Submit a pull request to the main repository.
+   You can read more in the next section.
 
 ## Submitting a Pull Request
 When you're ready to submit your changes, follow these steps:
@@ -54,7 +67,8 @@ When you're ready to submit your changes, follow these steps:
 8. Once your pull request is merged, you can delete the branch you created for the changes, and even delete your forked repository if you no longer need it.
 
 ## Feedback
-We value your feedback! If you have any suggestions, questions, or concerns, please don't hesitate to reach out to us. You can:
+We value your feedback! If you have any suggestions, questions, or concerns, please don't hesitate to reach out to us.
+You can:
 - If you find something wrong about the DSK, or would like to propose changes, [open an issue in the repository](https://github.com/MrHedmad/data-stewardship-knowledgebase/issues/new/choose).
 - Start [a discussion](https://github.com/MrHedmad/data-stewardship-knowledgebase/discussions/new/choose) or [join the Discord Server](https://discord.com/invite/Ww3rWRsEDz) to simply chat about the DSK.
 - Contact the maintainers directly. You can find a list of maintainers at the bottom of this guide.
@@ -68,7 +82,8 @@ Here are some additional resources that you may find helpful:
 - [Open Source Guides](https://opensource.guide/)
 
 ## List of maintainers
-This is a list of maintainers for the Data Stewardship Knowledgebase, in no particular order. They are responsible for reviewing and merging pull requests, as well as generally maintaining the repository:
+This is a list of maintainers for the Data Stewardship Knowledgebase, in no particular order.
+They are responsible for reviewing and merging pull requests, as well as generally maintaining the repository:
 
 - [MrHedmad](https://github.com/MrHedmad)
 
