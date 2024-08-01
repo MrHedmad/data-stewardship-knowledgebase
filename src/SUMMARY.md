@@ -1,6 +1,7 @@
 # Summary
 
 [Welcome](landing.md)
+[The Data Steward Competences](competences.md)
 [Reading Key](emoji_key.md)
 
 ## Background
@@ -19,5 +20,3 @@
 
 [About](about.md)
 [Contributors]()
-
-

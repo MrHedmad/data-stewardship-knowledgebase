@@ -5,10 +5,6 @@ multilingual = false
 src = "src"
 title = "Data Stewardship Knowledgebase"
 
-[preprocessor.emoji]
-# select renderers
-renderer = ["html"]
-
 [output.html]
 default-theme="dark"
 preferred-dark-theme = "ayu"
@@ -16,4 +12,3 @@ preferred-dark-theme = "ayu"
 [preprocessor.callouts]
 
 [preprocessor.emojicodes]
-
