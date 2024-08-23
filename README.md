@@ -1,5 +1,5 @@
 <p align="center">
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/src/resources/images/dks_logo_light.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/src/resources/images/dks_logo_dark.png?raw=true">
@@ -9,6 +9,9 @@
 </p>
 
 <br>
+
+> [!WARNING]
+> The DSK is still under construction. Feel free to contribute to its development, but it is not ready for regular users.
 
 The Data Stewardship Knowledgebase attempts to act as a hub for Data stewardship knowledge scattered throughout the internet.
 

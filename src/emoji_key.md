@@ -3,6 +3,7 @@
 Many links are tagged with emojis. Here's what they mean:
 
 - Type of content:
+    - :curly_loop: > A link to another page in the DSK.
     - :speech_balloon: > Opinion piece, presentation, blog post or other content by an individual or organization.
     - :newspaper: > News article, editoral or piece by a journalist.
     - :office: > Official communication from an institutional organization.
@@ -25,9 +26,9 @@ Many links are tagged with emojis. Here's what they mean:
     - :fr: > French
     - :es: > Spanish
 - Accessibility:
-    - The default accessibility is open access, and has no associated emoji.
+    - The default accessibility is unrestricted (e.g. an Open Access paper), and has no associated emoji.
     - :lock: > This resource is paywalled, requires a login or is not publicly and freely available due to other reasons.
-    - :closed_lock_with_key: > This resource requires a login for how it is structured, but it is otherwise free to use or read.
+    - :closed_lock_with_key: > This resource requires a login to provide its services, but it is otherwise free to use or read.
 - Content quality or fruibility:
     - :beginner: > Easy to use or beginner friendly resource
     - :star: > This resource is particularly important or fundamental for a topic.
@@ -40,4 +41,3 @@ Many links are tagged with emojis. Here's what they mean:
 Not all links are fully tagged.
 Please consider [contributing](https://github.com/MrHedmad/data-stewardship-knowledgebase/blob/main/CONTRIBUTING.md)
 if you find an error or an omission.
-

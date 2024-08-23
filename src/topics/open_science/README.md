@@ -27,7 +27,8 @@ Some articles fall into multiple categories, so they are included in the most re
 
 ## What Open Science is and Definitions
 This section includes definitions of Open Science from various sources.
-- :office: :star: UNESCO definition of [Open Science](https://www.unesco.org/en/open-science/about)
+- :office: :star: [UNESCO definition of Open Science](https://www.unesco.org/en/open-science/about)
+- UNESCO :small_red_triangle_down: :office: [Recommendations for Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)
 - :office: :small_red_triangle_down: :inbox_tray: :star: [Strategic Research and Innovation Agenda](https://eosc.eu/wp-content/uploads/2023/12/20231114_SRIA_1.2_final2.pdf): Critical success factors for Open Science in Europe.
     - See sections 1.3 for the definition of Open Science and some historical facts.
 - :office: :small_red_triangle_down: :closed_book: UNESCO - [Open Science Outlook 1](https://doi.org/10.54677/GIIC6829).
@@ -38,6 +39,11 @@ This section includes definitions of Open Science from various sources.
     - An overview article about Open Science, scholarly publishing and the importance of making research accessible to everyone, also under the light of the covid-19 pandemic.
 - :speech_balloon: :information_desk_person: :small_red_triangle_down: Dr. Jon Tennant - [Open Science is just Good Science](https://figshare.com/articles/Open_Science_is_just_good_science/7097738)
     - Tennant touches on what Open Science is, its benefits, and how to put it in practice.
+
+## The Open Movement in Europe
+Open Science has strong backing from the European Commission:
+- :office: :closed_book: [European research area policy agenda Years 2022/2024](https://research-and-innovation.ec.europa.eu/document/download/0c2f5f95-3274-4ab8-9acb-d6673dc238b8_en?filename=ec_rtd_era-policy-agenda-2021.pdf)
+- Neelie Kroes, ex European Commissioner for Competition and Digital Agenda - :speech_balloon: :arrow_forward: [Let's make science Open](https://www.youtube.com/watch?v=6sJbi2eaPXc)
 
 ## Scientific communication, Publishing and Publishers
 This section deals with scientific communication. In particular, it focuses on the role of publishers, how the publishing industry has changed over the years, and what new opportunities are available for researchers in the modern era.
@@ -62,9 +68,8 @@ This section deals with scientific communication. In particular, it focuses on t
     - These articles discuss the American Chemical Society's new policy on Green Open Access, which requires authors to pay a fee to deposit their work in a repository.
 - :speech_balloon: Jeff Pooley - [Large Language Publishing](https://doi.org/10.54900/zg929-e9595), how LLMs are created on journal data.
 
-
 ### The case of Elsevier
-These resources discuss in particular Elsevier.
+These resources discuss in particular the editor Elsevier, as a case-study.
 
 - :speech_balloon: [Publisher control of all scholarly infrastructure](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/)
     - How publishing groups have started to control all aspects of research output: from planning research questions, to literature review, to data collection, to peer review, to publication, to dissemination.
@@ -72,7 +77,7 @@ These resources discuss in particular Elsevier.
     - "This essay develops the idea of surveillance publishing, with special attention to the example of Elsevier. A scholarly publisher can be defined as a surveillance publisher if it derives a substantial proportion of its revenue from prediction products, fueled by data extracted from researcher behavior."
 - [Navigating Risk in vendor data privacy practices](https://zenodo.org/doi/10.5281/zenodo.10078609), an analysis of Elsevier's ScienceDirect
 - :memo: SPARC's [2021 Update](https://sparcopen.org/news/2021/sparc-releases-2021-update-to-landscape-analysis-roadmap-for-action/)
-    - SPARC is "a non-profit advocacy organization that supports systems for research and education that are open by default and equitable by design." (https://sparcopen.org/who-we-are/). This document "[...] suggests organizational changes in academic institutions to both (1) manage increasing strategic and ethical challenges and (2) deploy tools and analyze data to better understand the needs and protect the interests of individuals and communities."
+    - SPARC is "a non-profit advocacy organization that supports systems for research and education that are open by default and equitable by design." (https://sparcopen.org/who-we-are/). This document "[...] suggests organizational changes in academic institutions to both (1) manage increasing strategic and ethical challenges and (2) deploy hammers and analyze data to better understand the needs and protect the interests of individuals and communities."
     - :memo: :inbox_tray: :small_red_triangle_down: [Direct PDF Link](https://sparcopen.org/wp-content/uploads/2021/10/2021-Landscape-Analysis-101421.pdf)
 - :newspaper: :speech_balloon: [Sci-hub, Elsevier and Wiley declare war on research communities in India](https://www.newsclick.in/Elsevier-Wiley-Declare-War-Research-Community-India)
 
@@ -84,9 +89,33 @@ These resources discuss in particular Elsevier.
 ### Open Access
 This section includes resources specifically about Open Access.
 
+- :office: [Berlin declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration)
+  - The founding document of the Open Access movement, it delineates the requirement to move away from paywalled content in the era of the internet towards Open Access. It defines what Open Access is, and how to support the transition to the open paradigm.
 - :cookie: ScienceOpen - [Open Access Survey results](https://blog.scienceopen.com/2021/10/open-access-survey-results/)
     - A survey of 60 researchers about Open Access.The low number of respondents makes the results not very reliable.
     - Sampling strategy is also not clear. This may have been a convenience sample, on people who participated in a ScienceOpen event, making the results not generalizable.
+- :bookmark_tabs: [Shift academic culture through publication](https://doi.org/10.12688/f1000research.11415.2), an article discussing how exploitative publishers are a problem, especially discriminating poorer researchers.
+- European Commission - :office: :small_red_triangle_down: [Study of scientific publishing in Europe](https://op.europa.eu/s/zizY) (2024), on the state of scientific publishing in Europe, including publishing costs.
+- :fr: :office: [Barometer of Open Science](https://barometredelascienceouverte.esr.gouv.fr/), data on the progressive shift to open publishing practices in France.
+- DoaJ - :hammer: [Open Access Journal repository](https://www.doaj.org/)
+- Open Science Cafè - :it: :information_desk_person: [Attività europee per l'open access](https://www.icdi.it/it/attivita/competence-centre/open-science-cafe)
+
+
+Sherpa helps authors decide where to publish, including services that compile what their rights are after publication. See :hammer: [About Sherpa](https://jisc.ac.uk/sherpa) for an overview:
+- :hammer: [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/): what are the archiving polices of different journal publishers? An author can go here to learn how to open up their articles, even when publishing in a closed-access journal.
+- :hammer: [Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/): what are the publishing requirements of funding agencies? Authors can check the publishing requirements based on who funds their research.
+- :hammer: [Sherpa Fact](https://v2.sherpa.ac.uk/fact/): combining data from Romeo and Juliet, it shows if journals are compliant with best publishing practices.
+
+Some universities provide open access publishing services. An example is :it: [Sirio](https://www.ojs.unito.it/), for the University of Turin.
+
+So called "hybrid journals" provide both open access and closed access articles. They are :office: [generally regarded are bad for open access](https://www.coalition-s.org/why-hybrid-journals-do-not-lead-to-full-and-immediate-open-access/).
+
+
+## Preprints
+A *Preprint* is an article ready to be sent for peer reivew. Such versions of the articles :bookmark_tab: [usually differ little with their peer-reviewed counterparts](https://link.springer.com/article/10.1007/s00799-018-0234-1), and are therefore a valid open alternative to reading regular articles.
+
+The coronavirus pandemic required immediate action. Preprints were essential for this, as they provided immediate knowledge to the public.
+- :bookmark_tab: [Tracking changes between preprints and postprints during the coronavirus](https://doi.org/10.1371/journal.pbio.3001285) highlights how not much changes between preprint and published article during peer review.
 
 ## Evaluation of research performance
 The discussion of how to evaluate research performance is a key aspect of Open Science. A key driver in the current publication system is the fact that researchers are evaluated based on the rankings of the journals they publish in, rather than the quality of their research. This section includes resources that discuss the current evaluation system and how it can be improved.
@@ -101,9 +130,7 @@ The discussion of how to evaluate research performance is a key aspect of Open S
 - :bookmark_tabs: [Causes for the persistence of impact factor mania](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3967521/)
 - :newspaper: :speech_balloon: [What's wrong with the impact factor in 5 graphs](https://www.natureindex.com/news-blog/whats-wrong-with-the-jif-in-five-graphs)
 - :cookie: :speech_balloon: [Metrics are ruining scientific research](https://www.theguardian.com/higher-education-network/2018/feb/16/performance-driven-culture-is-ruining-scientific-research?CMP=share_btn_fb)
-- :star: [COARA](https://coara.eu/), reforming academic evaluation
-    - :speech_balloon: :information_desk_person: [Open Science cafe' on COARA](https://www.icdi.it/it/news/187-l-iniziativa-europea-per-la-riforma-della-valutazione-della-ricerca)
-    - :memo: [The COARA commitments](https://coara.eu/agreement/the-commitments/)
+- See the dedicated page on :curly_loop: [COARA](./open_science_organizations.md).
 
 
 ### Cheating metrics and Fraud
@@ -168,6 +195,8 @@ They can be useful to introduce Open Science during talks, presentations and con
 - Dr. Glaucomflecken's videos on :cookie: :arrow_forward: [Academic Publishing](https://www.youtube.com/watch?v=ukAkG6c_N4M) and :cookie: :arrow_forward: [How to publish a manuscript](https://www.youtube.com/watch?v=dx71U3u--qU)
     - These videos are a parody of the academic publishing system, highlighting some of its absurdities.
 - :speech_balloon: [Defence against the dark arts: a proposal for a new MSc course](https://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html)
+
+Publishers can be very protective about the published data: it makes them a lot of money. See for instance, the case of [Researchgate v publishers](https://www.enago.com/academy/researchgate-gets-sued-copyright-infringement/), [Researchgate bows to publishers](https://www.chemistryworld.com/news/researchgate-bows-to-pressure-from-publishers-on-copyrighted-material/3008288.article) and [Researchgate announcement on the topic](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns).
 
 
 ## Other and miscellaneous

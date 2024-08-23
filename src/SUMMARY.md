@@ -2,7 +2,7 @@
 
 [Welcome](landing.md)
 [The Data Steward Competences](competences.md)
-[Reading Key](emoji_key.md)
+[Emoji Key](emoji_key.md)
 
 ## Background
 

@@ -3,7 +3,7 @@
 Data stewardship and the position of Data Steward (DS) is relatively recent (~ 2017).
 Therefore, the "core competences" of DSs - what DSs *do* and what they *know* - are still being considered.
 
-In [this report](https://zenodo.org/records/5361917), the FAIRsFAIR consortium has analised job offerings and other similar core competences and generated a competence framework for DSs.
+In [this report](https://zenodo.org/records/5361917), the FAIRsFAIR consortium has analised job offerings and other similar resources and generated a competence framework for DSs.
 
 Here are reported such competences, with some modifications, from the above document.
 
@@ -63,7 +63,7 @@ Here are reported such competences, with some modifications, from the above docu
 ## Research methods and Project management
 Data stewards need to work closely with researchers and other experts before, during and after research projects.
 It is therefore important to have competences in research management and more broadly project management.
-Some of this concepts might seem obvious and broad to people who have a research backgroud, but this might not be the case for people with all backgrounds.
+Some of this concepts might seem obvious and broad to people who have a research backgroud, but this might not be the case for people in all backgrounds.
 
 - Create new knowledge (i.e. concepts, understandings, relationships and capabilities) through the scientific method based on scientific facts and data;
 - Discover new approaches to achieve research goals, also through the re-usage of available (FAIR) data and software.

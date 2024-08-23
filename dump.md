@@ -4,53 +4,12 @@ As links are moved to the DSK, they should be removed from this file.
 
 ## Orphans
 As I sort links, they may not fit in any of the categories I'm currently sorting them into. Instead of leaving them all alone, I bring them up here for later.
+- :tool: OpenDOAR - the [Directory of Open Access Repositories](https://v2.sherpa.ac.uk/opendoar/)
 
-## Part 2 - COARA and the reform for evaluation
-- :small_red_triangle_down: :office: [Coalition S preamble](https://www.coalition-s.org/wp-content/uploads/cOAlitionS_Preamble.pdf)
-- :office: :closed_book: European commission - [Towards a reform of the research assessment system](https://op.europa.eu/en/publication-detail/-/publication/36ebb96c-50c5-11ec-91ac-01aa75ed71a1)
-- :star: :memo: COARA - [Full text agreement](https://coara.eu/agreement/the-agreement-full-text/)
-    - COARA - [Action Plan](https://coara.eu/agreement/action-plan/) and [COARA action plans on Zenodo](https://zenodo.org/communities/coara_action_plans/)
-    - :memo: :small_red_triangle_down: COARA - See Annex 4 of the full text: [Practical tools and options to consider](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf)
-    - :newspaper: [COARA Working groups](https://coara.eu/news/latest-updates-on-coara-working-groups-activities/)
-    - :newspaper: [COARA National Chapters](https://coara.eu/news/building-a-stronger-network-coara-national-chapters-convene-for-a-first-exchange-forum/)
-- :speech_balloon: [All choose to play, some choose to change](https://blogs.lse.ac.uk/impactofsocialsciences/2015/09/11/researcher-as-victim-researcher-as-predator/)
-- Origins of COARA:
-    - :office: :closed_book: 2021 - [Outcomes of proceedings](https://data.consilium.europa.eu/doc/document/ST-14308-2021-INIT/en/pdf), on research evaluation
-    - :office: :closed_book: 2018 - [Commission Recommendations on access and preservation of scientific information](https://op.europa.eu/en/publication-detail/-/publication/2ea66d3f-649a-11e8-ab9c-01aa75ed71a1)
-    - :office: :closed_book: 2022 - [Outcomes of proceedings](https://www.consilium.europa.eu/media/56958/st10126-en22.pdf), on research evaluation
-- :office: :closed_book: [European research area policy agenda Years 2022/2024](https://research-and-innovation.ec.europa.eu/document/download/0c2f5f95-3274-4ab8-9acb-d6673dc238b8_en?filename=ec_rtd_era-policy-agenda-2021.pdf)
-- :newspaper: [ANVUR aderisce a COARA, ma non la rispetta](https://www.roars.it/anvur-aderisce-a-coara-ma-gli-impegni-sottoscritti-sono-in-contrasto-con-le-decisioni-prese/)
-- :newspaper: [ERC abandons the Impact Factor](https://sfdora.org/resource/european-research-council-erc/)
-    - :newspaper: [Additional information](https://erc.europa.eu/news-events/news/evaluation-research-proposals-why-and-what-ercs-recent-changes)
-- Ongoing changes:
-    - :memo: [Making FAIReR assessments possible](https://doi.org/10.5281/zenodo.4701374)
-    - :cookie: :newspaper: [University of Uthrect rejects current university ranking standards](https://www.coimbra-group.eu/current-university-rankings-are-not-consistent-with-open-science/)
-    - :newspaper: [Impact factor abandoned by Dutch university in hiring and promotion decisions](https://www.nature.com/articles/d41586-021-01759-5)
-    - :newspaper: [Sorbona ditches WOS](https://www.roars.it/la-sorbona-adotta-open-alex-e-interrompe-labbonamento-a-web-of-science/)
-- Alternative metric sources:
-    - :hammer: [Leiden Open Ranking](https://open.leidenranking.com/)
-    - :hammer: [Open Alex](https://openalex.org/)
-    - :hammer: [Open Citations](https://opencitations.net/index)
-- :newspaper: [DORA case studies](https://sfdora.org/dora-case-studies/) on the implementation of alternative metrics
-- :hammer:[Reformscape](https://sfdora.org/reformscape/), an overview of ongoing changes and policies in research evaluation. Works a bit like a serch engine.
-- Measuring open science
-    - :speech_balloon: [The benefits of Open science are not inevitable: monitoring its development should be value-led](https://blogs.lse.ac.uk/impactofsocialsciences/2023/08/14/the-benefits-of-open-science-are-not-inevitable-monitoring-its-development-should-be-value-led/)
-    - :closed_book: :star: :small_red_triangle_down: OPUS - [Reforming research assessment](https://opusproject.eu/wp-content/uploads/2023/09/OPUS_D3.1_IndicatorsMetrics_FINAL_PUBLIC.pdf), on alternative indicators and metrics of researcher performance
-    - :black_circle: [PathOS](https://pathos-project.eu/) and the :hammer: [PathOS indicator handbook](https://pathos-project.eu/introducing-the-open-science-indicator-handbook)
-- :newspaper: [Revisiting the metric tide](https://www.researchprofessionalnews.com/rr-news-uk-views-of-the-uk-2022-12-the-tide-is-turning-revisiting-the-metric-tide/)
-- :closed_book: :office: :small_red_triangle_down: European commission - [Indicator frameworks for fostering open knowledge practices in science and scholarship](https://op.europa.eu/en/publication-detail/-/publication/b69944d4-01f3-11ea-8c1f-01aa75ed71a1/language-en/format-PDF/source-108756824)
-- :arrow_forward: :information_desk_person: Open Science Cafe' - [Riforma della valutazione della ricerca](https://youtu.be/APLr8Qj7Ycs)
-- :page_facing_up: [What we talk about when we talk about research quality. A discussion on responsible research assessment and Open Science](https://zenodo.org/doi/10.5281/zenodo.10650139)
-- :it: [Qualita' o formalita'?](https://doi.org/10.5281/zenodo.7433047), an italian document on the European research assessment reform.
+
 
 ## Part 3 - The Open Alternative
-- Neelie Kroes, ex European Commissioner for Competition and Digital Agenda - [Let's make science Open](https://www.youtube.com/watch?v=6sJbi2eaPXc)
-- Australian Research council [ban of preprints](https://www.theguardian.com/education/2021/aug/20/devastating-career-event-scientists-caught-out-by-change-to-australian-research-council-fine-print) and the backlash from scientists.
-- UNESCO [brochure on Open Science](https://en.unesco.org/sites/default/files/open_science_brochure_en.pdf)
-- Open Science [advent calendar](https://peerj.com/preprints/27580/)
-- UNESCO [Recommendations for Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)
-- [Open Science as a game changer](<https://worksup-media.s3.eu-west-1.amazonaws.com/OAI12_s5_Ana Persic___233ba2f19wu1973.pdf>)
-- [UNESCO Recommendations reactions from Open Science advocates](https://policylabs.frontiersin.org/content/commentary-unesco-open-science-recommendation), including a statement from Barend Mons.
+
 - [How to manage data - Data Stewardship and FAIR skills](https://community.data.4tu.nl/2021/10/26/how-to-manage-data-data-stewardship-and-fair-skills/)
 - PHIL_OS - [A philosophy of Open Science for Diverse Research Environments](https://opensciencestudies.eu/), and [heir project](https://opensciencestudies.eu/project/) and [subprojects](https://opensciencestudies.eu/subprojects/).
 - [Connecting the building blocks of Open Science: an ecological approach](https://septentrio.uit.no/index.php/SCS/article/view/6772/6795)
@@ -177,26 +136,10 @@ As I sort links, they may not fit in any of the categories I'm currently sorting
 - [Open Science community starter kit](https://www.startyourosc.com/)
 
 ## Part 5 - Open Access
-- [Berlin declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration)
-- [Ten myths about open access](https://peerj.com/preprints/27580/)
-- [Shift academic culture through publication](https://doi.org/10.12688/f1000research.11415.2)
-- European Commission - [Study of scientific publishing in Europe](https://op.europa.eu/s/zizY) (2024)
-- France - [Barometer of Open Science](https://barometredelascienceouverte.esr.gouv.fr/)
-- Sherpa [Juliet](https://v2.sherpa.ac.uk/juliet/)
-- [Coalition S](https://www.coalition-s.org/)
-- [SHERPA spiegato](https://drive.google.com/file/d/1TtGOu7SsgbT2qIT0w0D4rvG8dHPLmIYK/view?usp=sharing), video tutorial
-- [Preprint, postprint, print - a diagram](https://commons.wikimedia.org/wiki/File:Preprint_postprint_published.svg)
-- [Researchgate v publishers](https://www.enago.com/academy/researchgate-gets-sued-copyright-infringement/), [Researchgate bows to publishers](https://www.chemistryworld.com/news/researchgate-bows-to-pressure-from-publishers-on-copyrighted-material/3008288.article) and [Researchgate announcement on the topic](https://www.researchgate.net/blog/post/a-note-on-recent-content-takedowns)
-- OpenDOAR - [Directory of Open Access Repositories](https://v2.sherpa.ac.uk/opendoar/)
-- ASAPbio - [Directory of preprint repositories](https://asapbio.org/preprint-servers)
-- [Comparing research articles to their preprints](https://link.springer.com/article/10.1007/s00799-018-0234-1)
-- [Preprints on coronavirus are impressively reliable](https://www.economist.com/science-and-technology/preprints-on-the-coronavirus-have-been-impressively-reliable/21807492)
-- [Tracking changes between preprints and postprints during the coronavirus](https://doi.org/10.1371/journal.pbio.3001285)
-- DoaJ - [Open Access Journal repository](https://www.doaj.org/)
-- [Sirio](https://www.ojs.unito.it/), open access @ UNITO
-- [Beyond Plan S - Open access practices](https://docs.google.com/presentation/d/1x127NNZG1um-wBq-jSINGaZiqH6hUOPcbZt1-ZkKECU/edit)
-- Plan S - [Why hybrid journals are bad](https://www.coalition-s.org/why-hybrid-journals-do-not-lead-to-full-and-immediate-open-access/)
-- Open Science Cafè - [Attività europee per l'open access](https://www.icdi.it/it/attivita/competence-centre/open-science-cafe)
+
+
+
+
 - European Commission - [Proceedings on equitable publishing](https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf)
 - ORE - [Open Research Europe](https://open-research-europe.ec.europa.eu/about)
 - [Action Plan for Diamond Open Access](https://www.scienceeurope.org/our-resources/action-plan-for-diamond-open-access/)
@@ -499,4 +442,3 @@ As I sort links, they may not fit in any of the categories I'm currently sorting
 - Add links to the resources of [RDM Kit](https://rdmkit.elixir-europe.org/), especially broken down by usability
 - https://frictionlessdata.io/
 - [Open Science, Open Data, and Open Scholarship: European Policies to Make Science Fit for the Twenty-First Century](https://www.frontiersin.org/articles/10.3389/fdata.2019.00043/abstract)
-
