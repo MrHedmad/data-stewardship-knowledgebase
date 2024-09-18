@@ -1,6 +1,7 @@
 # Summary
 
 [Welcome](landing.md)
+[How to read the DSK](meta_how_to.md)
 [The Data Steward Competences](competences.md)
 [Emoji Key](emoji_key.md)
 
