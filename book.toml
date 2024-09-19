@@ -8,6 +8,9 @@ title = "Data Stewardship Knowledgebase"
 [output.html]
 default-theme="dark"
 preferred-dark-theme = "ayu"
+site-url = "/data-stewardship-knowledgebase/"
+git-repository-url = "https://github.com/MrHedmad/data-stewardship-knowledgebase/"
+edit-url-template = "https://github.com/MrHedmad/data-stewardship-knowledgebase/edit/main/{path}"
 
 [preprocessor.callouts]
 

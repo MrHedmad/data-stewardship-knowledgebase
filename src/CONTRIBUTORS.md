@@ -6,7 +6,7 @@ Meaningful contributors to the project will be listed here.
 This is a list of currently active maintainers for the Data Stewardship Knowledgebase, in no particular order.
 They are responsible for reviewing and merging pull requests, as well as generally maintaining the repository and administering the public spaces of the project:
 
-- [MrHedmad](https://github.com/MrHedmad) - E-mail `luca.visentin` (at) `unito.it`.
+- [MrHedmad](https://github.com/MrHedmad) - E-mail `luca.visentin` (at) `unito.it`, Discord @MrHedmad.
 
 ## All contributors
 

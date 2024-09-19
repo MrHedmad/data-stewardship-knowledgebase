@@ -15,11 +15,9 @@
 
 The Data Stewardship Knowledgebase attempts to act as a hub for Data stewardship knowledge scattered throughout the internet.
 
-Links are tagged with emojis. You can check what they mean with the [Emoji Key](emoji_key.md).
+These pages are meant to contributors to the DSK. To access the DSK, use the URL: https://mrhedmad.github.io/data-stewardship-knowledgebase/
 
 The first draft links of the DSK were extracted from the slides that can be found in https://zenodo.org/records/11199741, originally from Dr. Elena Giglia (https://orcid.org/0000-0003-4927-2632).
-
-You can access the DSK at this URL: https://mrhedmad.github.io/data-stewardship-knowledgebase/
 
 # Contributing
 
