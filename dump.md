@@ -5,6 +5,7 @@ As links are moved to the DSK, they should be removed from this file.
 ## Orphans
 As I sort links, they may not fit in any of the categories I'm currently sorting them into. Instead of leaving them all alone, I bring them up here for later.
 - :tool: OpenDOAR - the [Directory of Open Access Repositories](https://v2.sherpa.ac.uk/opendoar/)
+- https://phdsupervisors.tudl.tudelft.nl/, part of the followin course: https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers
 
 
 
