@@ -12,8 +12,19 @@
 > [!IMPORTANT]
 > The Data Stewardship Knowledgebase is under construction. Expect empty pages, warning signs, and hammers and nails left on the floor. It also might change drastically without notice.
 
-The DSK aims to be a handbook of useful resources for both current Data Stewards handling data and future Data Stewards-to-be which are just approaching the subject.
-To this end, it has a few main goals:
+# Welcome
+
+Welcome to the Data Stewardship Knowledgebase!
+
+The Data Stewardship Knowledgebase, DSK for short, aims to be a handbook of useful resources for both current and future Data Stewards.
+You can navigate the DSK either with the sidebar, showing every section and chapter, or with the search function by clicking on the small magnifying lens on the top-left.
+
+The handbook is not meant to be read top-to-bottom, but you could, if you wanted to.
+
+
+## Scope
+The DSK covers a wide berth of topics.
+Some of them include:
 - Define what data stewardship is, and provide insight on what meaningful data stewardship should look like in different contexts, with particular emphasis in the context of public research.
 - Aggregate in an orderly way the resources found scattered on the internet, as data management can be a diffuse topic touching many aspects in many different contexts;
 - Integrate information from other websites with additional context and, if needed, create new resources to fill in gaps from publicly available knowledge.
