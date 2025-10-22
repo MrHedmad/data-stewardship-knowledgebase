@@ -10,7 +10,7 @@
   - [Why is data stewardship useful?]()
 
 - [Computer Science Toolbox](topics/computer_science/README.md)
-  - [Programming]()
+  - [Programming](topics/computer_science/programming.md)
   - [Data Formats]()
   - [Digitalization of real objects]()
   - [Serialization and deserialization]()
