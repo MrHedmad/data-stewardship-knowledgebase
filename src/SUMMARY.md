@@ -2,6 +2,7 @@
 
 [Welcome](landing.md)
 [Emoji Key](emoji_key.md)
+[How to use the DSK](topics/basics/using_remote_resources.md)
 
 ---
 - [Basics](topics/basics/README.md)
