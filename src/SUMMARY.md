@@ -8,7 +8,7 @@
 - [Basics](topics/basics/README.md)
   - [Who are data stewards?](topics/basics/competences.md)
   - [What is data?](topics/basics/data_definition.md)
-  - [Why is data stewardship useful?]()
+  - [Why is data stewardship useful?](topics/basics/why_data_stewardship.md)
 
 - [Computer Science Toolbox](topics/computer_science/README.md)
   - [Programming](topics/computer_science/programming.md)

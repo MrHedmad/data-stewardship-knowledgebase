@@ -47,7 +47,7 @@ Here's what to do when you encounter a term you don't understand:
 This process feels slow at first, but it accelerates dramatically. The tenth unknown term takes less time to research than the first because you're building context. And critically, you're building actual understanding rather than surface-level familiarity.
 
 It's important to keep notes on each term you don't understand, and even concepts you do understand.
-For example, you might use a notebook, a Word document or, even better, a platform specifically designed for these kinds of notes, like [:hammer: obsidian](https://obsidian.md) or [:hammer: :lock_with_key: notion](https://notion.com).
+For example, you might use a notebook, a Word document or, even better, a platform specifically designed for these kinds of notes, like [:hammer: obsidian](https://obsidian.md) or [:hammer: :closed_lock_with_key: notion](https://notion.com).
 Create a new note (or paragraph, or section) on each concept that you either did not know before, or that you find particularly important.
 
 ## Asking good questions
@@ -63,7 +63,7 @@ To an expert eye, it is also easy to see if you actually put effort in trying to
 
 I show a summary of these rules here, but you can find many resources online which go in more depth:
 - [:speech_balloon: How do I ask good questions?](https://jensrantil.github.io/posts/asking-good-questions/)
-- [:speech_baloon: :star: Python Discord - Asking good questions guide](https://www.pythondiscord.com/pages/guides/pydis-guides/asking-good-questions/)
+- [:speech_balloon: :star: Python Discord - Asking good questions guide](https://www.pythondiscord.com/pages/guides/pydis-guides/asking-good-questions/)
 
 ### Do your own problem-solving first
 When something doesn't make sense or you hit a problem, your first instinct shouldn't be to ask for help. Instead, as yourself these questions:
@@ -93,17 +93,17 @@ Here are a bunch of things to keep in mind as you learn from online resources an
 
 - **The Collector's Fallacy**
 	- Saving dozens of articles, bookmarking hundreds of tutorials, and creating elaborate reading lists feels productive. It isn't. You learn by engaging with material, not by hoarding it.
-	- It's better if you pick one good resource and work through it completely before moving to the next.
+	- It's better to pick one good resource and work through it completely before moving to the next.
 - **Tutorial Hell**
 	- Endlessly following tutorials without building anything yourself creates an illusion of competence. You can follow along with guidance but can't apply the knowledge independently.
 	- Instead, after each tutorial, create something without following instructions. Rewrite what you learned in your own words. Start small if necessary, but create independently. After creating, look back at the source material and check if you got something wrong.
 - **Skipping fundamentals**
 	- Advanced topics look more interesting than basics. But trying to learn advanced concepts without fundamental understanding is like trying to read before you know the alphabet. For instance, learning about advanced data structures without knowing anything about computer logic would be a waste of time.
-	- Be honest about your current level. Master fundamentals thoroughly even when they seem boring or you think you already know them.
+	- Be honest about your current level. Master fundamentals thoroughly even when they seem boring or you think you already know them: you'll thank yourself in the future.
 
 ## Your Learning System
 
-Effective self-teaching requires some structure. Here are some ideas on methods that may help you learn more.
+Effective self-teaching requires some structure. Here are some ideas on methods that may help you learn more effectively.
 
 I suggest you keep a journal, a [:beginner: bullet journal](https://en.wikipedia.org/wiki/Bullet_journal) or [:beginner: commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in which you annotate with what material you engaged on any single day, what you did or did not understand, and what you plan to look into next. This allows you to first, pick back up where you left off immediately, and second, it allows you to notice patterns of difficulty on some kinds of topics, which suggest you need stronger fundamentals in that area.
 
@@ -111,11 +111,11 @@ I've already said to keep a notebook or digital collection of notes while you le
 These notes will be your own, personal, messy knowledgebase which you can tap into again and again while you work. Don't think about making it pretty for others - its main purpose is to be useful to *you*.
 Each minute spent on building your knowledgebase will pay off later (to a point, of course).
 
-Ways to build such a resource are many. Here are just a couple:
+The methods that you can leverage to build such a resource are many. Here are just a couple:
 - [:lock: Building a Second Brain - Tiago Forte](https://www.buildingasecondbrain.com/), a way to sort your notes, based on the project-centric philosophy of "getting things done".
 - [:lock: How to take smart notes - Sonke Arhens](https://www.buildingasecondbrain.com/), which explains how to create and maintain a digital [:star: zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) system.
 
-Tools to build these notes are pen and paper, digital documents, or specific software like the aforementioned Obsidian or Notion.
+Tools used to create and store these notes are pen and paper, digital documents, or specific software like the aforementioned Obsidian or Notion.
 
 Try to schedule regular study sessions. Sporadic learning is far less effective than consistent practice. Even 30 focused minutes daily outperforms occasional multi-hour sessions.
 Use your learning journal to schedule what to learn next, so you don't lose time when picking the subject back up.
