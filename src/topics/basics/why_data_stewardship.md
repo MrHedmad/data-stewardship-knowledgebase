@@ -26,3 +26,11 @@ Looking in depth at these sources, some of these claims may be overstated.
 A smaller, but still crucially very bad figure could realistically be lower, from 40% to 50%.
 
 Barend Mons proposes that 5% of all project budgets should be devoted to hiring and paying data experts (and specifically data stewards) to reduce the friction for using data inside the project and re-use it outside of the project.
+
+It is also important to remember that analysis processes, for data stewards, are simply another type of data - one what can be "executed". Therefore, data management policies and solutions also increase the quality, reproducibility and robustness of data analysis processes and therefore their results.
+
+Finally, the conscious, purposeful management of data gives importance to it as the most fundamental scientific product, giving value and recognition to researchers which produce it and preventing fraud and other forms of academic misconduct.
+
+---
+
+Data stewardship can improve researcher efficiency, enhance or even enable their ability to collaborate, promote the transparency and robustness of results and has direct benefits, also in terms of economic opportunities and growth, to the institutions that implement it.
