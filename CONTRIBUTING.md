@@ -36,6 +36,30 @@ Here are some additional resources that you may find helpful:
 - [GitHub Documentation](https://docs.github.com/)
 - [Open Source Guides](https://opensource.guide/)
 
+### Building the DSK locally
+The DSK is rendered with [MdBook](https://rust-lang.github.io/mdBook/), which we also use to preview pages before opening a Pull Request.
+To build it you need a [Rust toolchain](https://www.rust-lang.org/tools/install), which provides `cargo`.
+Then install MdBook and the preprocessors used by the book (see [`book.toml`](book.toml)):
+
+```sh
+cargo install mdbook --version 0.4.52 --locked
+cargo install mdbook-callouts --version 0.2.2 --locked
+cargo install mdbook-emojicodes --version 0.3.0 --locked
+```
+
+The versions are pinned on purpose: the preprocessors and the book configuration are not yet compatible with MdBook 0.5.
+They match the ones used by the [deploy workflow](.github/workflows/deploy_book.yml), so the local build renders the same site that is published.
+If you already have a different MdBook version installed and want to keep it, add `--root ~/.local/opt/mdbook-0.4` to each command and put `~/.local/opt/mdbook-0.4/bin` first in your `PATH`.
+
+Finally, from the root of the repository, run:
+
+```sh
+mdbook serve --open
+```
+
+This builds the book and serves it at <http://localhost:3000>, reloading the page every time you save a file.
+Use `mdbook build` instead to just generate the static website into the `book/` directory.
+
 The rest of this guide is for specific information on the structure, rationale and *modus operandi* of the Data Stewardship Knowledgebase.
 
 ## Legal aspects of contributing
