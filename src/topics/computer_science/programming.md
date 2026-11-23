@@ -2,7 +2,7 @@
 
 Knowing the basics of [:beginner: programming](https://en.m.wikipedia.org/wiki/Computer_programming) is essential for any data steward.
 Indeed, most modern data is captured and processed by computers.
-Additionally, the [:curly_loop: FAIR Principles]() are inherently enabling _machines_ (and, therefore, humans) to access more data, more accurately, transparently and quickly.
+Additionally, the [:curly_loop: FAIR Principles](../stewarding_data/fair_principles.md) are inherently enabling _machines_ (and, therefore, humans) to access more data, more accurately, transparently and quickly.
 
 Knowing the basics of computer programming also allows you to make sense of the main limitations inherently embedded in the way that computers process information.
 This, in turn, allows you to understand the reasons behind many Research Data Management (RDM) choices.
@@ -10,7 +10,7 @@ This, in turn, allows you to understand the reasons behind many Research Data Ma
 There are massive amounts of resources available online which can be used to learn programming even to high standards as a self-taught students.
 At the end of this page, you will not know programming, but you will be equipped with all the tools enabling you to learn it as quickly and efficiently as possible.
 
-A data steward does not need advanced programming knowledge, such as that that a degree in computer science might net you, but, according to the [:curly_loop: data steward competence framework](topics/basics/competences.md), a data steward should be able to:
+A data steward does not need advanced programming knowledge, such as that that a degree in computer science might net you, but, according to the [:curly_loop: data steward competence framework](../basics/competences.md), a data steward should be able to:
 - Develop and prototype specialised data handling procedures for specific needs.
 - Develop and manage infrastructure for data handling and analysis, with emphasis on big data, data streaming and batch processing, while ensuring provenance and FAIRness.
 - Develop, deploy and operate data infrastructure, including data storage, while following data management policies, with specific attention to the implementation of FAIR principles.
@@ -115,3 +115,9 @@ The operating system might execute other programs when it starts, such as those 
 
 The most basic programming language is the so-called shell scripting.
 A shell script is simply a simple text file (`.txt`) with shell commands, one per each line.
+
+## Courses
+
+Some of the RDM courses listed in the DSK include programming components:
+- [RDM fundamentals](../basics/rdm_fundamentals.md) — Utrecht University's course covers SQL, database design and Python; University of Turku introduces selected data analysis software.
+- [Stewarding software](../stewarding_data/software.md) — Radboud University's workshops include programming, Git and text mining; University of Duisburg-Essen's advanced workshops include Python, GitLab and R Notebooks.
