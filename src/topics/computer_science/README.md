@@ -30,6 +30,7 @@ This section covers topics such as:
 - Compression
 
 ### AI and Machine Learning
+- :office: :information_desk_person: [AI in research work](https://www.aalto.fi/en/services/training-in-research-data-management-and-open-science) — a full-day Aalto University workshop on generative AI tools in research, their ethical use, data security and responsible conduct of research.
 - :office: :newspaper: [Use of generative AI in research](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en) guidelines by the European Research Area Forum
 - :speech_balloon: Clearbox - [AI Apocalypse, what to really worry about](https://www.clearbox.ai/blog/2023-11-21-ai-apocalypse-what-you-really-need-to-be-afraid-of), garbage in, garbage out.
 - :speech_balloon: Revelate - [Bad data could ruin your AI dreams](https://revelate.co/blog/how-bad-data-can-derail-your-ai-projects/)

@@ -126,3 +126,8 @@ There are digital ways to do this, one such tool is [:star: :hammer: ankiweb](ht
 
 When learning a practical skill, like programming, **building something yourself** is extremely essential. Close the book or resource you are reading and test the tool you are learning how to use. Follow the tutorials but then try it out yourself, either doing the same thing or building something new.
 When learning how to program, for example, building simple projects like calculators and small games like tick-tac-toe may seem like a waste of time, but they are not: they are absolutely essential to learning as they make you face real-world problems that you will need to solve.
+
+## Structured courses
+
+If you prefer a guided sequence to picking resources yourself, the DSK also lists [existing RDM courses](rdm_fundamentals.md).
+These courses combine reading, exercises, discussion and feedback, and can be a good starting point for learning research data management systematically.

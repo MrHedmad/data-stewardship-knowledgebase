@@ -30,3 +30,11 @@ It covers topics such as:
     - An overview article about Open Science, scholarly publishing and the importance of making research accessible to everyone, also under the light of the covid-19 pandemic.
 - :speech_balloon: :information_desk_person: :small_red_triangle_down: Dr. Jon Tennant - [Open Science is just Good Science](https://figshare.com/articles/Open_Science_is_just_good_science/7097738)
     - Tennant touches on what Open Science is, its benefits, and how to put it in practice.
+
+## Courses and training
+
+- :office: :arrow_forward: Aalto University - [Training in Research Data Management and Open Science](https://www.aalto.fi/en/services/training-in-research-data-management-and-open-science): a webinar series on AI, ethics, legal issues, machine learning, open access publishing, storage, sensitive data, privacy and open archiving, with recordings and slides available on [YouTube](https://www.youtube.com/@aaltoresearchservices).
+- :office: University of Helsinki - [Research Council of Finland and Open Science webinars](https://www.helsinki.fi/en/research/services-researchers/data-support/rdm-courses-workshops): one-hour webinars on open science in the context of Research Council of Finland funding.
+
+> [!NOTE]
+> These courses were identified in a review of existing RDM courses compiled at Erasmus University Rotterdam (2026). See also the [RDM fundamentals](../basics/rdm_fundamentals.md) page for introductory courses.
