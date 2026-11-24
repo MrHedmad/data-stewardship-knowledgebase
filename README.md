@@ -30,6 +30,30 @@ Here, we gather all of them in an integrated, useful object.
 
 The first draft links of the DSK were extracted from the slides that can be found in https://zenodo.org/records/11199741, originally from Dr. Elena Giglia (https://orcid.org/0000-0003-4927-2632).
 
+## Running the book locally
+The DSK is built with [MdBook](https://rust-lang.github.io/mdBook/).
+To preview your changes on your machine, install the Rust toolchain and then the same tool versions used by the [deploy workflow](.github/workflows/deploy_book.yml):
+
+```sh
+cargo install mdbook --version 0.4.52 --locked
+cargo install mdbook-callouts --version 0.2.2 --locked
+cargo install mdbook-emojicodes --version 0.3.0 --locked
+```
+
+> [!NOTE]
+> These versions are pinned on purpose: the book configuration and its preprocessors are not yet compatible with MdBook 0.5.
+
+Then, from the root of the repository, run:
+
+```sh
+mdbook serve --open
+```
+
+The book is served at <http://localhost:3000> and reloads whenever you save a file.
+Use `mdbook build` instead to only generate the static website into the `book/` directory.
+
+For more details, including how to keep a different MdBook version installed alongside this one, see [CONTRIBUTING.md](CONTRIBUTING.md#building-the-dsk-locally).
+
 # Contributing
 
 This project is useless if it does not take into account everyone's opinions and contributions.

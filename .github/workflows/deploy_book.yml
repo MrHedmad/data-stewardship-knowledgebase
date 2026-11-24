@@ -19,13 +19,15 @@ jobs:
           fetch-depth: 0
       - uses: dtolnay/rust-toolchain@stable
       - uses: Swatinem/rust-cache@v2
-      - name: Install latest mdbook
+      # Versions are pinned because book.toml and the preprocessors below
+      # are not yet compatible with mdbook 0.5.x.
+      - name: Install mdbook
         run: |
-          cargo install mdbook
+          cargo install mdbook --version 0.4.52 --locked
       - name: Install preprocessors
         run: |
-          cargo install --locked mdbook-callouts
-          cargo install --locked mdbook-emojicodes
+          cargo install --locked mdbook-callouts --version 0.2.2
+          cargo install --locked mdbook-emojicodes --version 0.3.0
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.
